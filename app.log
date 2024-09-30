@@ -1,0 +1,872 @@
+2024-09-29 21:32:41,268 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-09-29 21:32:41,676 - WARNING - Downloading recognition model, please wait. This may take several minutes depending upon your network connection.
+2024-09-29 21:35:00,325 - INFO - Download complete.
+2024-09-29 21:35:04,344 - INFO - EasyOCR Reader initialized with languages: ['en']
+2024-09-29 21:35:04,502 - INFO - No image uploaded yet.
+2024-09-29 21:35:04,660 - INFO - No image uploaded yet.
+2024-09-29 21:35:04,802 - INFO - No image uploaded yet.
+2024-09-29 21:35:53,271 - INFO - Image uploaded and displayed.
+2024-09-29 21:35:53,302 - INFO - Converted PIL Image to OpenCV format.
+2024-09-29 21:35:53,318 - INFO - Converted image to grayscale.
+2024-09-29 21:36:01,132 - INFO - OCR extraction complete with 8 results.
+2024-09-29 21:36:01,132 - WARNING - Unexpected OCR result format at index 0: [[[40, 0], [104, 0], [104, 8], [40, 8]], 'UIlIC']
+2024-09-29 21:36:01,132 - WARNING - Unexpected OCR result format at index 1: [[[133, 0], [209, 0], [209, 11], [133, 11]], 'COMPIIC']
+2024-09-29 21:36:01,132 - WARNING - Unexpected OCR result format at index 2: [[[230, 0], [252, 0], [252, 8], [230, 8]], 'CO']
+2024-09-29 21:36:01,135 - WARNING - Unexpected OCR result format at index 3: [[[321, 0], [456, 0], [456, 13], [321, 13]], 'pi 05 am UILLI']
+2024-09-29 21:36:01,135 - WARNING - Unexpected OCR result format at index 4: [[[5, 16], [197, 16], [197, 37], [5, 37]], '#include <stdio.h>']
+2024-09-29 21:36:01,135 - WARNING - Unexpected OCR result format at index 5: [[[4, 68], [292, 68], [292, 234], [4, 234]], 'int main() int a[5] {1,2,3,4,5} ; for(int 1-0 , int j-5-1; a[i] a[i]+a[j]; a[j] a[i]-a[j]; a[i] a[i]-a[j];']
+2024-09-29 21:36:01,135 - WARNING - Unexpected OCR result format at index 6: [[[323, 126], [516, 126], [516, 152], [323, 152]], '<= 5/2; i++,j++) {']
+2024-09-29 21:36:01,135 - WARNING - Unexpected OCR result format at index 7: [[[46, 264], [262, 264], [262, 341], [46, 341]], 'for(int i-0;1<5;1++) printf( "%dIn" ,a[i]); return 0;']
+2024-09-29 21:36:01,135 - INFO - No valid confidence scores available.
+2024-09-30 08:32:48,088 - INFO - Image uploaded and displayed.
+2024-09-30 08:32:48,104 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:32:48,120 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-09-30 08:32:54,377 - INFO - EasyOCR Reader initialized with languages: ['en']
+2024-09-30 08:32:54,449 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:32:54,465 - INFO - Converted image to grayscale.
+2024-09-30 08:33:02,393 - INFO - OCR extraction complete with 24 results.
+2024-09-30 08:33:02,409 - INFO - OCR Results: [([[np.int32(40), 0], [np.int32(104), 0], [np.int32(104), np.int32(8)], [np.int32(40), np.int32(8)]], 'UIlIC', np.float64(0.10925415241818644)), ([[np.int32(133), 0], [np.int32(209), 0], [np.int32(209), np.int32(11)], [np.int32(133), np.int32(11)]], 'COMPIIC', np.float64(0.48879603976177133)), ([[np.int32(230), 0], [np.int32(252), 0], [np.int32(252), np.int32(8)], [np.int32(230), np.int32(8)]], 'CO', np.float64(0.18600751783294578)), ([[np.int32(321), 0], [np.int32(367), 0], [np.int32(367), np.int32(13)], [np.int32(321), np.int32(13)]], 'pi 05', np.float64(0.1638493246694868)), ([[np.int32(375), 0], [np.int32(399), 0], [np.int32(399), np.int32(11)], [np.int32(375), np.int32(11)]], 'am', np.float64(0.41093430260008273)), ([[np.int32(408), 0], [np.int32(456), 0], [np.int32(456), np.int32(8)], [np.int32(408), np.int32(8)]], 'UILLI', np.float64(0.030673527149966736)), ([[np.int32(5), np.int32(16)], [np.int32(94), np.int32(16)], [np.int32(94), np.int32(36)], [np.int32(5), np.int32(36)]], '#include', np.float64(0.9999832676431569)), ([[np.int32(101), np.int32(17)], [np.int32(197), np.int32(17)], [np.int32(197), np.int32(37)], [np.int32(101), np.int32(37)]], '<stdio.h>', np.float64(0.8082983597432427)), ([[np.int32(4), np.int32(68)], [np.int32(116), np.int32(68)], [np.int32(116), np.int32(96)], [np.int32(4), np.int32(96)]], 'int main()', np.float64(0.9945832941384322)), ([[np.int32(48), np.int32(100)], [np.int32(134), np.int32(100)], [np.int32(134), np.int32(124)], [np.int32(48), np.int32(124)]], 'int a[5]', np.float64(0.9355198108953792)), ([[np.int32(161), np.int32(98)], [np.int32(291), np.int32(98)], [np.int32(291), np.int32(124)], [np.int32(161), np.int32(124)]], '{1,2,3,4,5} ;', np.float64(0.9741669966798804)), ([[np.int32(46), np.int32(126)], [np.int32(174), np.int32(126)], [np.int32(174), np.int32(150)], [np.int32(46), np.int32(150)]], 'for(int 1-0 ,', np.float64(0.6301831379627585)), ([[np.int32(184), np.int32(126)], [np.int32(292), np.int32(126)], [np.int32(292), np.int32(152)], [np.int32(184), np.int32(152)]], 'int j-5-1;', np.float64(0.9808421731790261)), ([[np.int32(323), np.int32(131)], [np.int32(345), np.int32(131)], [np.int32(345), np.int32(145)], [np.int32(323), np.int32(145)]], '<=', np.float64(0.9947338600110122)), ([[np.int32(350), np.int32(126)], [np.int32(516), np.int32(126)], [np.int32(516), np.int32(152)], [np.int32(350), np.int32(152)]], '5/2; i++,j++) {', np.float64(0.8611017663353262)), ([[np.int32(88), np.int32(154)], [np.int32(136), np.int32(154)], [np.int32(136), np.int32(178)], [np.int32(88), np.int32(178)]], 'a[i]', np.float64(0.9776501655578613)), ([[np.int32(161), np.int32(153)], [np.int32(271), np.int32(153)], [np.int32(271), np.int32(179)], [np.int32(161), np.int32(179)]], 'a[i]+a[j];', np.float64(0.9850402606233549)), ([[np.int32(88), np.int32(182)], [np.int32(134), np.int32(182)], [np.int32(134), np.int32(206)], [np.int32(88), np.int32(206)]], 'a[j]', np.float64(0.9981513023376465)), ([[np.int32(162), np.int32(180)], [np.int32(270), np.int32(180)], [np.int32(270), np.int32(206)], [np.int32(162), np.int32(206)]], 'a[i]-a[j];', np.float64(0.9920722758116137)), ([[np.int32(88), np.int32(210)], [np.int32(134), np.int32(210)], [np.int32(134), np.int32(234)], [np.int32(88), np.int32(234)]], 'a[i]', np.float64(0.9623799324035645)), ([[np.int32(162), np.int32(210)], [np.int32(272), np.int32(210)], [np.int32(272), np.int32(234)], [np.int32(162), np.int32(234)]], 'a[i]-a[j];', np.float64(0.9934214884850129)), ([[np.int32(46), np.int32(264)], [np.int32(262), np.int32(264)], [np.int32(262), np.int32(288)], [np.int32(46), np.int32(288)]], 'for(int i-0;1<5;1++)', np.float64(0.4061481317359245)), ([[np.int32(48), np.int32(290)], [np.int32(260), np.int32(290)], [np.int32(260), np.int32(316)], [np.int32(48), np.int32(316)]], 'printf( "%dIn" ,a[i]);', np.float64(0.6640850487984674)), ([[np.int32(47), np.int32(321)], [np.int32(145), np.int32(321)], [np.int32(145), np.int32(341)], [np.int32(47), np.int32(341)]], 'return 0;', np.float64(0.7308144230874439))]
+2024-09-30 08:33:02,409 - INFO - Text 1: UIlIC | Confidence: 0.11%
+2024-09-30 08:33:02,418 - INFO - Text 2: COMPIIC | Confidence: 0.49%
+2024-09-30 08:33:02,418 - INFO - Text 3: CO | Confidence: 0.19%
+2024-09-30 08:33:02,418 - INFO - Text 4: pi 05 | Confidence: 0.16%
+2024-09-30 08:33:02,418 - INFO - Text 5: am | Confidence: 0.41%
+2024-09-30 08:33:02,418 - INFO - Text 6: UILLI | Confidence: 0.03%
+2024-09-30 08:33:02,425 - INFO - Text 7: #include | Confidence: 1.00%
+2024-09-30 08:33:02,425 - INFO - Text 8: <stdio.h> | Confidence: 0.81%
+2024-09-30 08:33:02,425 - INFO - Text 9: int main() | Confidence: 0.99%
+2024-09-30 08:33:02,425 - INFO - Text 10: int a[5] | Confidence: 0.94%
+2024-09-30 08:33:02,425 - INFO - Text 11: {1,2,3,4,5} ; | Confidence: 0.97%
+2024-09-30 08:33:02,425 - INFO - Text 12: for(int 1-0 , | Confidence: 0.63%
+2024-09-30 08:33:02,425 - INFO - Text 13: int j-5-1; | Confidence: 0.98%
+2024-09-30 08:33:02,425 - INFO - Text 14: <= | Confidence: 0.99%
+2024-09-30 08:33:02,425 - INFO - Text 15: 5/2; i++,j++) { | Confidence: 0.86%
+2024-09-30 08:33:02,425 - INFO - Text 16: a[i] | Confidence: 0.98%
+2024-09-30 08:33:02,425 - INFO - Text 17: a[i]+a[j]; | Confidence: 0.99%
+2024-09-30 08:33:02,425 - INFO - Text 18: a[j] | Confidence: 1.00%
+2024-09-30 08:33:02,425 - INFO - Text 19: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:33:02,425 - INFO - Text 20: a[i] | Confidence: 0.96%
+2024-09-30 08:33:02,425 - INFO - Text 21: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:33:02,425 - INFO - Text 22: for(int i-0;1<5;1++) | Confidence: 0.41%
+2024-09-30 08:33:02,425 - INFO - Text 23: printf( "%dIn" ,a[i]); | Confidence: 0.66%
+2024-09-30 08:33:02,425 - INFO - Text 24: return 0; | Confidence: 0.73%
+2024-09-30 08:33:02,446 - INFO - Average OCR Confidence: 0.72%
+2024-09-30 08:33:02,446 - INFO - Download button enabled for extracted text.
+2024-09-30 08:34:37,861 - INFO - Image uploaded and displayed.
+2024-09-30 08:34:37,878 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:34:37,908 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:34:37,956 - INFO - Converted image to grayscale.
+2024-09-30 08:35:13,750 - INFO - Image uploaded and displayed.
+2024-09-30 08:35:13,782 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:35:13,845 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:35:13,924 - INFO - Converted image to grayscale.
+2024-09-30 08:35:57,377 - INFO - OCR extraction complete with 0 results.
+2024-09-30 08:35:57,397 - INFO - OCR Results: []
+2024-09-30 08:35:57,488 - INFO - No valid confidence scores available.
+2024-09-30 08:36:37,373 - INFO - Image uploaded and displayed.
+2024-09-30 08:36:37,373 - INFO - OCR Languages selected: Hindi (hi)
+2024-09-30 08:36:37,373 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-09-30 08:36:40,348 - INFO - EasyOCR Reader initialized with languages: ['hi']
+2024-09-30 08:36:40,376 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:36:40,422 - INFO - Converted image to grayscale.
+2024-09-30 08:36:44,315 - INFO - Image uploaded and displayed.
+2024-09-30 08:36:44,330 - INFO - OCR Languages selected: Hindi (hi)
+2024-09-30 08:36:44,440 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:36:44,521 - INFO - Converted image to grayscale.
+2024-09-30 08:37:06,098 - INFO - Image uploaded and displayed.
+2024-09-30 08:37:06,109 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:37:06,179 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:37:06,289 - INFO - Converted image to grayscale.
+2024-09-30 08:37:11,895 - INFO - Image uploaded and displayed.
+2024-09-30 08:37:11,911 - INFO - OCR Languages selected: Hindi (hi)
+2024-09-30 08:37:12,067 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:37:12,192 - INFO - Converted image to grayscale.
+2024-09-30 08:37:35,272 - INFO - OCR extraction complete with 0 results.
+2024-09-30 08:37:35,288 - INFO - OCR Results: []
+2024-09-30 08:37:35,381 - INFO - No valid confidence scores available.
+2024-09-30 08:38:50,106 - INFO - No image uploaded.
+2024-09-30 08:38:59,529 - INFO - Image uploaded and displayed.
+2024-09-30 08:38:59,544 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:38:59,544 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-09-30 08:39:03,316 - INFO - EasyOCR Reader initialized with languages: ['en']
+2024-09-30 08:39:03,332 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:39:03,347 - INFO - Converted image to grayscale.
+2024-09-30 08:39:03,520 - INFO - Image uploaded and displayed.
+2024-09-30 08:39:03,520 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:39:03,567 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:39:03,583 - INFO - Converted image to grayscale.
+2024-09-30 08:39:32,144 - INFO - OCR extraction complete with 50 results.
+2024-09-30 08:39:32,150 - INFO - OCR Results: [([[np.int32(4), np.int32(3)], [np.int32(187), np.int32(3)], [np.int32(187), np.int32(30)], [np.int32(4), np.int32(30)]], 'import java.lang', np.float64(0.9953165051246439)), ([[np.int32(4), np.int32(26)], [np.int32(186), np.int32(26)], [np.int32(186), np.int32(52)], [np.int32(4), np.int32(52)]], 'import java.util', np.float64(0.9354426533739094)), ([[np.int32(3), np.int32(46)], [np.int32(318), np.int32(46)], [np.int32(318), np.int32(75)], [np.int32(3), np.int32(75)]], 'public class ArmstrongNumber', np.float64(0.9615478354433891)), ([[np.int32(47), np.int32(90)], [np.int32(404), np.int32(90)], [np.int32(404), np.int32(120)], [np.int32(47), np.int32(120)]], 'public static void main(String[ ]', np.float64(0.8514432698392791)), ([[np.int32(410), np.int32(96)], [np.int32(470), np.int32(96)], [np.int32(470), np.int32(120)], [np.int32(410), np.int32(120)]], 'args)', np.float64(0.9999918965698451)), ([[np.int32(479), np.int32(97)], [np.int32(493), np.int32(97)], [np.int32(493), np.int32(119)], [np.int32(479), np.int32(119)]], '{', np.float64(0.9998816286786258)), ([[np.int32(93), np.int32(141)], [np.int32(173), np.int32(141)], [np.int32(173), np.int32(161)], [np.int32(93), np.int32(161)]], 'Scanner', np.float64(0.8617759686682397)), ([[np.int32(224), np.int32(137)], [np.int32(483), np.int32(137)], [np.int32(483), np.int32(165)], [np.int32(224), np.int32(165)]], 'new Scanner( System.in);', np.float64(0.8678298446779493)), ([[np.int32(92), np.int32(158)], [np.int32(284), np.int32(158)], [np.int32(284), np.int32(186)], [np.int32(92), np.int32(186)]], 'System.out.print(', np.float64(0.9725119346275021)), ([[np.int32(291), np.int32(163)], [np.int32(349), np.int32(163)], [np.int32(349), np.int32(183)], [np.int32(291), np.int32(183)]], 'Enter', np.float64(0.9999969612146002)), ([[np.int32(378), np.int32(160)], [np.int32(450), np.int32(160)], [np.int32(450), np.int32(184)], [np.int32(378), np.int32(184)]], 'number', np.float64(0.999953182110589)), ([[np.int32(482), np.int32(162)], [np.int32(514), np.int32(162)], [np.int32(514), np.int32(186)], [np.int32(482), np.int32(186)]], '");', np.float64(0.9995831354957696)), ([[np.int32(92), np.int32(182)], [np.int32(130), np.int32(182)], [np.int32(130), np.int32(206)], [np.int32(92), np.int32(206)]], 'int', np.float64(0.9999213328504486)), ([[np.int32(139), np.int32(189)], [np.int32(175), np.int32(189)], [np.int32(175), np.int32(205)], [np.int32(139), np.int32(205)]], 'num', np.float64(0.999352861738917)), ([[np.int32(224), np.int32(184)], [np.int32(338), np.int32(184)], [np.int32(338), np.int32(210)], [np.int32(224), np.int32(210)]], 'nextInt();', np.float64(0.9996833890523705)), ([[np.int32(92), np.int32(203)], [np.int32(272), np.int32(203)], [np.int32(272), np.int32(232)], [np.int32(92), np.int32(232)]], 'int originalNum,', np.float64(0.9496611218462865)), ([[np.int32(281), np.int32(211)], [np.int32(325), np.int32(211)], [np.int32(325), np.int32(229)], [np.int32(281), np.int32(229)]], 'rem,', np.float64(0.9736083745956421)), ([[np.int32(335), np.int32(209)], [np.int32(373), np.int32(209)], [np.int32(373), np.int32(227)], [np.int32(335), np.int32(227)]], 'res', np.float64(0.9802600741386414)), ([[np.int32(476), np.int32(206)], [np.int32(504), np.int32(206)], [np.int32(504), np.int32(230)], [np.int32(476), np.int32(230)]], '0;', np.float64(0.9949733976026364)), ([[np.int32(90), np.int32(228)], [np.int32(220), np.int32(228)], [np.int32(220), np.int32(254)], [np.int32(90), np.int32(254)]], 'originalNum', np.float64(0.9990672095941674)), ([[np.int32(247), np.int32(233)], [np.int32(293), np.int32(233)], [np.int32(293), np.int32(253)], [np.int32(247), np.int32(253)]], 'num;', np.float64(0.9999330043792725)), ([[np.int32(92), np.int32(272)], [np.int32(286), np.int32(272)], [np.int32(286), np.int32(300)], [np.int32(92), np.int32(300)]], 'for (;originalNum', np.float64(0.9608305592656171)), ([[np.int32(294), np.int32(274)], [np.int32(350), np.int32(274)], [np.int32(350), np.int32(298)], [np.int32(294), np.int32(298)]], 'I= 0;', np.float64(0.7342787520742277)), ([[np.int32(354), np.int32(267)], [np.int32(485), np.int32(267)], [np.int32(485), np.int32(303)], [np.int32(354), np.int32(303)]], 'originalNum', np.float64(0.997730987498656)), ([[np.int32(491), np.int32(275)], [np.int32(551), np.int32(275)], [np.int32(551), np.int32(295)], [np.int32(491), np.int32(295)]], 'I = 10', np.float64(0.662321605848481)), ([[np.int32(564), np.int32(272)], [np.int32(648), np.int32(272)], [np.int32(648), np.int32(298)], [np.int32(564), np.int32(298)]], '++n); {', np.float64(0.40903477086213724)), ([[np.int32(92), np.int32(294)], [np.int32(220), np.int32(294)], [np.int32(220), np.int32(322)], [np.int32(92), np.int32(322)]], 'originalNum', np.float64(0.9621444354997957)), ([[np.int32(246), np.int32(298)], [np.int32(293), np.int32(298)], [np.int32(293), np.int32(319)], [np.int32(246), np.int32(319)]], 'num;', np.float64(0.9999592900276184)), ([[np.int32(92), np.int32(340)], [np.int32(286), np.int32(340)], [np.int32(286), np.int32(368)], [np.int32(92), np.int32(368)]], 'for (;originalNum', np.float64(0.9295629223795409)), ([[np.int32(295), np.int32(343)], [np.int32(339), np.int32(343)], [np.int32(339), np.int32(363)], [np.int32(295), np.int32(363)]], 'I= 0', np.float64(0.7413508893336499)), ([[np.int32(354), np.int32(340)], [np.int32(560), np.int32(340)], [np.int32(560), np.int32(366)], [np.int32(354), np.int32(366)]], 'originalNum /= 10)', np.float64(0.9622303770045794)), ([[np.int32(137), np.int32(367)], [np.int32(175), np.int32(367)], [np.int32(175), np.int32(385)], [np.int32(137), np.int32(385)]], 'rem', np.float64(0.9993383288383484)), ([[np.int32(202), np.int32(362)], [np.int32(392), np.int32(362)], [np.int32(392), np.int32(390)], [np.int32(202), np.int32(390)]], 'originalNum % 10;', np.float64(0.9733640193241626)), ([[np.int32(137), np.int32(389)], [np.int32(173), np.int32(389)], [np.int32(173), np.int32(407)], [np.int32(137), np.int32(407)]], 'res', np.float64(0.9998447299003601)), ([[np.int32(183), np.int32(391)], [np.int32(207), np.int32(391)], [np.int32(207), np.int32(405)], [np.int32(183), np.int32(405)]], '+=', np.float64(0.477939209572955)), ([[np.int32(214), np.int32(385)], [np.int32(360), np.int32(385)], [np.int32(360), np.int32(412)], [np.int32(214), np.int32(412)]], 'Math.pow(rem,', np.float64(0.865963591222906)), ([[np.int32(366), np.int32(386)], [np.int32(404), np.int32(386)], [np.int32(404), np.int32(410)], [np.int32(366), np.int32(410)]], 'n);', np.float64(0.9999052966916047)), ([[np.int32(92), np.int32(452)], [np.int32(164), np.int32(452)], [np.int32(164), np.int32(478)], [np.int32(92), np.int32(478)]], 'if(res', np.float64(0.9989349414492585)), ([[np.int32(173), np.int32(461)], [np.int32(195), np.int32(461)], [np.int32(195), np.int32(473)], [np.int32(173), np.int32(473)]], 'E=', np.float64(0.10790762045606075)), ([[np.int32(201), np.int32(457)], [np.int32(249), np.int32(457)], [np.int32(249), np.int32(477)], [np.int32(201), np.int32(477)]], 'num)', np.float64(0.9999544620513916)), ([[np.int32(136), np.int32(470)], [np.int32(386), np.int32(470)], [np.int32(386), np.int32(502)], [np.int32(136), np.int32(502)]], 'System.out.println(num', np.float64(0.7082625746068837)), ([[np.int32(432), np.int32(474)], [np.int32(460), np.int32(474)], [np.int32(460), np.int32(498)], [np.int32(432), np.int32(498)]], 'is', np.float64(0.9964411233357057)), ([[np.int32(467), np.int32(479)], [np.int32(493), np.int32(479)], [np.int32(493), np.int32(497)], [np.int32(467), np.int32(497)]], 'an', np.float64(0.9999898847713415)), ([[np.int32(497), np.int32(473)], [np.int32(722), np.int32(473)], [np.int32(722), np.int32(502)], [np.int32(497), np.int32(502)]], 'Armstrong number.");', np.float64(0.7590691604015553)), ([[np.int32(92), np.int32(498)], [np.int32(142), np.int32(498)], [np.int32(142), np.int32(522)], [np.int32(92), np.int32(522)]], 'else', np.float64(0.9999994039535522)), ([[np.int32(136), np.int32(518)], [np.int32(386), np.int32(518)], [np.int32(386), np.int32(546)], [np.int32(136), np.int32(546)]], 'System.out.println(num', np.float64(0.9697581715028042)), ([[np.int32(432), np.int32(520)], [np.int32(506), np.int32(520)], [np.int32(506), np.int32(544)], [np.int32(432), np.int32(544)]], 'is not', np.float64(0.9974564710328476)), ([[np.int32(511), np.int32(525)], [np.int32(537), np.int32(525)], [np.int32(537), np.int32(543)], [np.int32(511), np.int32(543)]], 'an', np.float64(0.9999892104238298)), ([[np.int32(541), np.int32(519)], [np.int32(726), np.int32(519)], [np.int32(726), np.int32(548)], [np.int32(541), np.int32(548)]], 'Armstrong number', np.float64(0.9433641981868444)), ([[np.int32(740), np.int32(522)], [np.int32(768), np.int32(522)], [np.int32(768), np.int32(546)], [np.int32(740), np.int32(546)]], ');', np.float64(0.9921649021055654))]
+2024-09-30 08:39:32,150 - INFO - Text 1: import java.lang | Confidence: 1.00%
+2024-09-30 08:39:32,150 - INFO - Text 2: import java.util | Confidence: 0.94%
+2024-09-30 08:39:32,150 - INFO - Text 3: public class ArmstrongNumber | Confidence: 0.96%
+2024-09-30 08:39:32,150 - INFO - Text 4: public static void main(String[ ] | Confidence: 0.85%
+2024-09-30 08:39:32,150 - INFO - Text 5: args) | Confidence: 1.00%
+2024-09-30 08:39:32,150 - INFO - Text 6: { | Confidence: 1.00%
+2024-09-30 08:39:32,159 - INFO - Text 7: Scanner | Confidence: 0.86%
+2024-09-30 08:39:32,159 - INFO - Text 8: new Scanner( System.in); | Confidence: 0.87%
+2024-09-30 08:39:32,162 - INFO - Text 9: System.out.print( | Confidence: 0.97%
+2024-09-30 08:39:32,163 - INFO - Text 10: Enter | Confidence: 1.00%
+2024-09-30 08:39:32,163 - INFO - Text 11: number | Confidence: 1.00%
+2024-09-30 08:39:32,163 - INFO - Text 12: "); | Confidence: 1.00%
+2024-09-30 08:39:32,163 - INFO - Text 13: int | Confidence: 1.00%
+2024-09-30 08:39:32,163 - INFO - Text 14: num | Confidence: 1.00%
+2024-09-30 08:39:32,288 - INFO - Text 15: nextInt(); | Confidence: 1.00%
+2024-09-30 08:39:32,288 - INFO - Text 16: int originalNum, | Confidence: 0.95%
+2024-09-30 08:39:32,304 - INFO - Text 17: rem, | Confidence: 0.97%
+2024-09-30 08:39:32,304 - INFO - Text 18: res | Confidence: 0.98%
+2024-09-30 08:39:32,304 - INFO - Text 19: 0; | Confidence: 0.99%
+2024-09-30 08:39:32,304 - INFO - Text 20: originalNum | Confidence: 1.00%
+2024-09-30 08:39:32,304 - INFO - Text 21: num; | Confidence: 1.00%
+2024-09-30 08:39:32,304 - INFO - Text 22: for (;originalNum | Confidence: 0.96%
+2024-09-30 08:39:32,319 - INFO - Text 23: I= 0; | Confidence: 0.73%
+2024-09-30 08:39:32,319 - INFO - Text 24: originalNum | Confidence: 1.00%
+2024-09-30 08:39:32,319 - INFO - Text 25: I = 10 | Confidence: 0.66%
+2024-09-30 08:39:32,319 - INFO - Text 26: ++n); { | Confidence: 0.41%
+2024-09-30 08:39:32,319 - INFO - Text 27: originalNum | Confidence: 0.96%
+2024-09-30 08:39:32,319 - INFO - Text 28: num; | Confidence: 1.00%
+2024-09-30 08:39:32,319 - INFO - Text 29: for (;originalNum | Confidence: 0.93%
+2024-09-30 08:39:32,335 - INFO - Text 30: I= 0 | Confidence: 0.74%
+2024-09-30 08:39:32,335 - INFO - Text 31: originalNum /= 10) | Confidence: 0.96%
+2024-09-30 08:39:32,335 - INFO - Text 32: rem | Confidence: 1.00%
+2024-09-30 08:39:32,335 - INFO - Text 33: originalNum % 10; | Confidence: 0.97%
+2024-09-30 08:39:32,335 - INFO - Text 34: res | Confidence: 1.00%
+2024-09-30 08:39:32,335 - INFO - Text 35: += | Confidence: 0.48%
+2024-09-30 08:39:32,335 - INFO - Text 36: Math.pow(rem, | Confidence: 0.87%
+2024-09-30 08:39:32,351 - INFO - Text 37: n); | Confidence: 1.00%
+2024-09-30 08:39:32,351 - INFO - Text 38: if(res | Confidence: 1.00%
+2024-09-30 08:39:32,351 - INFO - Text 39: E= | Confidence: 0.11%
+2024-09-30 08:39:32,351 - INFO - Text 40: num) | Confidence: 1.00%
+2024-09-30 08:39:32,351 - INFO - Text 41: System.out.println(num | Confidence: 0.71%
+2024-09-30 08:39:32,351 - INFO - Text 42: is | Confidence: 1.00%
+2024-09-30 08:39:32,351 - INFO - Text 43: an | Confidence: 1.00%
+2024-09-30 08:39:32,366 - INFO - Text 44: Armstrong number."); | Confidence: 0.76%
+2024-09-30 08:39:32,366 - INFO - Text 45: else | Confidence: 1.00%
+2024-09-30 08:39:32,366 - INFO - Text 46: System.out.println(num | Confidence: 0.97%
+2024-09-30 08:39:32,366 - INFO - Text 47: is not | Confidence: 1.00%
+2024-09-30 08:39:32,366 - INFO - Text 48: an | Confidence: 1.00%
+2024-09-30 08:39:32,366 - INFO - Text 49: Armstrong number | Confidence: 0.94%
+2024-09-30 08:39:32,366 - INFO - Text 50: ); | Confidence: 0.99%
+2024-09-30 08:39:32,366 - INFO - Average OCR Confidence: 0.91%
+2024-09-30 08:39:32,366 - INFO - Download button enabled for extracted text.
+2024-09-30 08:41:37,546 - INFO - No image uploaded.
+2024-09-30 08:41:37,617 - INFO - No image uploaded.
+2024-09-30 08:41:44,030 - INFO - Image uploaded and displayed.
+2024-09-30 08:41:44,030 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:41:44,046 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-09-30 08:41:47,417 - INFO - Image uploaded and displayed.
+2024-09-30 08:41:47,417 - INFO - OCR Languages selected: Hindi (hi)
+2024-09-30 08:41:47,426 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-09-30 08:41:48,297 - INFO - EasyOCR Reader initialized with languages: ['en']
+2024-09-30 08:41:53,859 - INFO - EasyOCR Reader initialized with languages: ['hi']
+2024-09-30 08:41:53,872 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:41:53,877 - INFO - Converted image to grayscale.
+2024-09-30 08:41:57,020 - INFO - OCR extraction complete with 1 results.
+2024-09-30 08:41:57,035 - INFO - Text 1: \u0939\u093f\u0902\u0926\u0940 | Confidence: 0.83%
+2024-09-30 08:41:57,035 - INFO - Average OCR Confidence: 0.83%
+2024-09-30 08:41:57,035 - INFO - Download button enabled for extracted text.
+2024-09-30 08:42:06,530 - INFO - Image uploaded and displayed.
+2024-09-30 08:42:06,530 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:42:06,530 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:42:06,530 - INFO - Converted image to grayscale.
+2024-09-30 08:42:08,753 - INFO - OCR extraction complete with 1 results.
+2024-09-30 08:42:08,753 - INFO - Text 1: {a4 | Confidence: 0.31%
+2024-09-30 08:42:08,753 - INFO - Average OCR Confidence: 0.31%
+2024-09-30 08:42:08,753 - INFO - Download button enabled for extracted text.
+2024-09-30 08:42:18,278 - INFO - Image uploaded and displayed.
+2024-09-30 08:42:18,278 - INFO - OCR Languages selected: English + Hindi (en+hi)
+2024-09-30 08:42:18,278 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-09-30 08:42:24,085 - INFO - EasyOCR Reader initialized with languages: ['en', 'hi']
+2024-09-30 08:42:24,100 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:42:24,100 - INFO - Converted image to grayscale.
+2024-09-30 08:42:26,682 - INFO - OCR extraction complete with 1 results.
+2024-09-30 08:42:26,682 - INFO - Text 1: \u0939\u093f\u0902\u0926\u0940 | Confidence: 0.83%
+2024-09-30 08:42:26,682 - INFO - Average OCR Confidence: 0.83%
+2024-09-30 08:42:26,682 - INFO - Download button enabled for extracted text.
+2024-09-30 08:42:48,848 - INFO - No image uploaded.
+2024-09-30 08:42:53,449 - INFO - Image uploaded and displayed.
+2024-09-30 08:42:53,453 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:42:53,462 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:42:53,468 - INFO - Converted image to grayscale.
+2024-09-30 08:42:56,352 - INFO - Image uploaded and displayed.
+2024-09-30 08:42:56,352 - INFO - OCR Languages selected: Hindi (hi)
+2024-09-30 08:42:56,431 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:42:56,431 - INFO - Converted image to grayscale.
+2024-09-30 08:43:06,863 - INFO - OCR extraction complete with 7 results.
+2024-09-30 08:43:06,863 - INFO - Text 1: \u090a\u0901 \u0915\u093e\u0924\u094d\u092f\u093e\u092f\u0928\u094d\u092f\u0948 \u0935\u093f\u0926\u094d\u092e\u0939\u0947, | Confidence: 0.37%
+2024-09-30 08:43:06,863 - INFO - Text 2: \u0915\u0928\u094d\u092f\u093e | Confidence: 0.51%
+2024-09-30 08:43:06,875 - INFO - Text 3: \u091a \u0927\u0940\u092e\u0939\u093f, | Confidence: 0.57%
+2024-09-30 08:43:06,875 - INFO - Text 4: \u0924\u0928\u094d\u0928\u093e | Confidence: 0.51%
+2024-09-30 08:43:06,875 - INFO - Text 5: \u092a\u094d\u0930\u091a\u094b\u0926\u092f\u093e\u0924\u094d| | | Confidence: 0.36%
+2024-09-30 08:43:06,879 - INFO - Text 6: \u0915\u0941\u092e\u093e\u0930\u093f | Confidence: 0.68%
+2024-09-30 08:43:06,879 - INFO - Text 7: \u0926\u0941\u0930\u094d\u0917\u093e | Confidence: 0.84%
+2024-09-30 08:43:06,879 - INFO - Average OCR Confidence: 0.55%
+2024-09-30 08:43:06,879 - INFO - Download button enabled for extracted text.
+2024-09-30 08:46:06,832 - INFO - No image uploaded.
+2024-09-30 08:46:13,711 - INFO - Image uploaded and displayed.
+2024-09-30 08:46:13,711 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:46:13,726 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-09-30 08:46:18,349 - INFO - Image uploaded and displayed.
+2024-09-30 08:46:18,349 - INFO - OCR Languages selected: Hindi (hi)
+2024-09-30 08:46:18,362 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-09-30 08:46:20,077 - INFO - EasyOCR Reader initialized with languages: ['en']
+2024-09-30 08:46:24,893 - INFO - EasyOCR Reader initialized with languages: ['hi']
+2024-09-30 08:46:24,919 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:46:24,925 - INFO - Converted image to grayscale.
+2024-09-30 08:46:33,764 - INFO - OCR extraction complete with 7 results.
+2024-09-30 08:46:33,764 - INFO - Text 1: \u090a\u0901 \u0915\u093e\u0924\u094d\u092f\u093e\u092f\u0928\u094d\u092f\u0948 \u0935\u093f\u0926\u094d\u092e\u0939\u0947, | Confidence: 0.37%
+2024-09-30 08:46:33,764 - INFO - Text 2: \u0915\u0928\u094d\u092f\u093e | Confidence: 0.51%
+2024-09-30 08:46:33,764 - INFO - Text 3: \u091a \u0927\u0940\u092e\u0939\u093f, | Confidence: 0.57%
+2024-09-30 08:46:33,764 - INFO - Text 4: \u0924\u0928\u094d\u0928\u093e | Confidence: 0.51%
+2024-09-30 08:46:33,764 - INFO - Text 5: \u092a\u094d\u0930\u091a\u094b\u0926\u092f\u093e\u0924\u094d| | | Confidence: 0.36%
+2024-09-30 08:46:33,764 - INFO - Text 6: \u0915\u0941\u092e\u093e\u0930\u093f | Confidence: 0.68%
+2024-09-30 08:46:33,764 - INFO - Text 7: \u0926\u0941\u0930\u094d\u0917\u093e | Confidence: 0.84%
+2024-09-30 08:46:33,772 - INFO - Average OCR Confidence: 0.55%
+2024-09-30 08:46:33,772 - INFO - Download button enabled for extracted text.
+2024-09-30 08:46:41,133 - INFO - Image uploaded and displayed.
+2024-09-30 08:46:41,133 - INFO - OCR Languages selected: Hindi (hi)
+2024-09-30 08:46:41,148 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:46:41,148 - INFO - Converted image to grayscale.
+2024-09-30 08:46:48,419 - INFO - OCR extraction complete with 7 results.
+2024-09-30 08:46:48,419 - INFO - Text 1: \u090a\u0901 \u0915\u093e\u0924\u094d\u092f\u093e\u092f\u0928\u094d\u092f\u0948 \u0935\u093f\u0926\u094d\u092e\u0939\u0947, | Confidence: 0.37%
+2024-09-30 08:46:48,419 - INFO - Text 2: \u0915\u0928\u094d\u092f\u093e | Confidence: 0.51%
+2024-09-30 08:46:48,419 - INFO - Text 3: \u091a \u0927\u0940\u092e\u0939\u093f, | Confidence: 0.57%
+2024-09-30 08:46:48,419 - INFO - Text 4: \u0924\u0928\u094d\u0928\u093e | Confidence: 0.51%
+2024-09-30 08:46:48,419 - INFO - Text 5: \u092a\u094d\u0930\u091a\u094b\u0926\u092f\u093e\u0924\u094d| | | Confidence: 0.36%
+2024-09-30 08:46:48,419 - INFO - Text 6: \u0915\u0941\u092e\u093e\u0930\u093f | Confidence: 0.68%
+2024-09-30 08:46:48,419 - INFO - Text 7: \u0926\u0941\u0930\u094d\u0917\u093e | Confidence: 0.84%
+2024-09-30 08:46:48,419 - INFO - Average OCR Confidence: 0.55%
+2024-09-30 08:46:48,419 - INFO - Download button enabled for extracted text.
+2024-09-30 08:46:58,123 - INFO - Image uploaded and displayed.
+2024-09-30 08:46:58,123 - INFO - OCR Languages selected: Hindi (hi)
+2024-09-30 08:46:58,138 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:46:58,138 - INFO - Converted image to grayscale.
+2024-09-30 08:47:06,174 - INFO - OCR extraction complete with 7 results.
+2024-09-30 08:47:06,174 - INFO - Text 1: \u090a\u0901 \u0915\u093e\u0924\u094d\u092f\u093e\u092f\u0928\u094d\u092f\u0948 \u0935\u093f\u0926\u094d\u092e\u0939\u0947, | Confidence: 0.37%
+2024-09-30 08:47:06,174 - INFO - Text 2: \u0915\u0928\u094d\u092f\u093e | Confidence: 0.51%
+2024-09-30 08:47:06,174 - INFO - Text 3: \u091a \u0927\u0940\u092e\u0939\u093f, | Confidence: 0.57%
+2024-09-30 08:47:06,174 - INFO - Text 4: \u0924\u0928\u094d\u0928\u093e | Confidence: 0.51%
+2024-09-30 08:47:06,174 - INFO - Text 5: \u092a\u094d\u0930\u091a\u094b\u0926\u092f\u093e\u0924\u094d| | | Confidence: 0.36%
+2024-09-30 08:47:06,174 - INFO - Text 6: \u0915\u0941\u092e\u093e\u0930\u093f | Confidence: 0.68%
+2024-09-30 08:47:06,174 - INFO - Text 7: \u0926\u0941\u0930\u094d\u0917\u093e | Confidence: 0.84%
+2024-09-30 08:47:06,174 - INFO - Average OCR Confidence: 0.55%
+2024-09-30 08:47:06,174 - INFO - Download button enabled for extracted text.
+2024-09-30 08:47:11,797 - INFO - No image uploaded.
+2024-09-30 08:47:18,442 - INFO - Image uploaded and displayed.
+2024-09-30 08:47:18,442 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:47:18,442 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:47:18,459 - INFO - Converted image to grayscale.
+2024-09-30 08:47:35,259 - INFO - OCR extraction complete with 50 results.
+2024-09-30 08:47:35,259 - INFO - Text 1: import java.lang | Confidence: 1.00%
+2024-09-30 08:47:35,259 - INFO - Text 2: import java.util | Confidence: 0.94%
+2024-09-30 08:47:35,259 - INFO - Text 3: public class ArmstrongNumber | Confidence: 0.96%
+2024-09-30 08:47:35,259 - INFO - Text 4: public static void main(String[ ] | Confidence: 0.85%
+2024-09-30 08:47:35,259 - INFO - Text 5: args) | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 6: { | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 7: Scanner | Confidence: 0.86%
+2024-09-30 08:47:35,267 - INFO - Text 8: new Scanner( System.in); | Confidence: 0.87%
+2024-09-30 08:47:35,267 - INFO - Text 9: System.out.print( | Confidence: 0.97%
+2024-09-30 08:47:35,267 - INFO - Text 10: Enter | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 11: number | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 12: "); | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 13: int | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 14: num | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 15: nextInt(); | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 16: int originalNum, | Confidence: 0.95%
+2024-09-30 08:47:35,267 - INFO - Text 17: rem, | Confidence: 0.97%
+2024-09-30 08:47:35,267 - INFO - Text 18: res | Confidence: 0.98%
+2024-09-30 08:47:35,267 - INFO - Text 19: 0; | Confidence: 0.99%
+2024-09-30 08:47:35,267 - INFO - Text 20: originalNum | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 21: num; | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 22: for (;originalNum | Confidence: 0.96%
+2024-09-30 08:47:35,267 - INFO - Text 23: I= 0; | Confidence: 0.73%
+2024-09-30 08:47:35,267 - INFO - Text 24: originalNum | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 25: I = 10 | Confidence: 0.66%
+2024-09-30 08:47:35,267 - INFO - Text 26: ++n); { | Confidence: 0.41%
+2024-09-30 08:47:35,267 - INFO - Text 27: originalNum | Confidence: 0.96%
+2024-09-30 08:47:35,267 - INFO - Text 28: num; | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 29: for (;originalNum | Confidence: 0.93%
+2024-09-30 08:47:35,267 - INFO - Text 30: I= 0 | Confidence: 0.74%
+2024-09-30 08:47:35,267 - INFO - Text 31: originalNum /= 10) | Confidence: 0.96%
+2024-09-30 08:47:35,267 - INFO - Text 32: rem | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 33: originalNum % 10; | Confidence: 0.97%
+2024-09-30 08:47:35,267 - INFO - Text 34: res | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 35: += | Confidence: 0.48%
+2024-09-30 08:47:35,267 - INFO - Text 36: Math.pow(rem, | Confidence: 0.87%
+2024-09-30 08:47:35,267 - INFO - Text 37: n); | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 38: if(res | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 39: E= | Confidence: 0.11%
+2024-09-30 08:47:35,267 - INFO - Text 40: num) | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 41: System.out.println(num | Confidence: 0.71%
+2024-09-30 08:47:35,267 - INFO - Text 42: is | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 43: an | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 44: Armstrong number."); | Confidence: 0.76%
+2024-09-30 08:47:35,267 - INFO - Text 45: else | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 46: System.out.println(num | Confidence: 0.97%
+2024-09-30 08:47:35,267 - INFO - Text 47: is not | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 48: an | Confidence: 1.00%
+2024-09-30 08:47:35,267 - INFO - Text 49: Armstrong number | Confidence: 0.94%
+2024-09-30 08:47:35,267 - INFO - Text 50: ); | Confidence: 0.99%
+2024-09-30 08:47:35,267 - INFO - Average OCR Confidence: 0.91%
+2024-09-30 08:47:35,267 - INFO - Download button enabled for extracted text.
+2024-09-30 08:47:40,300 - INFO - Image uploaded and displayed.
+2024-09-30 08:47:40,303 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:47:40,308 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:47:40,321 - INFO - Converted image to grayscale.
+2024-09-30 08:47:53,544 - INFO - OCR extraction complete with 50 results.
+2024-09-30 08:47:53,544 - INFO - Text 1: import java.lang | Confidence: 1.00%
+2024-09-30 08:47:53,544 - INFO - Text 2: import java.util | Confidence: 0.94%
+2024-09-30 08:47:53,544 - INFO - Text 3: public class ArmstrongNumber | Confidence: 0.96%
+2024-09-30 08:47:53,544 - INFO - Text 4: public static void main(String[ ] | Confidence: 0.85%
+2024-09-30 08:47:53,544 - INFO - Text 5: args) | Confidence: 1.00%
+2024-09-30 08:47:53,544 - INFO - Text 6: { | Confidence: 1.00%
+2024-09-30 08:47:53,544 - INFO - Text 7: Scanner | Confidence: 0.86%
+2024-09-30 08:47:53,544 - INFO - Text 8: new Scanner( System.in); | Confidence: 0.87%
+2024-09-30 08:47:53,544 - INFO - Text 9: System.out.print( | Confidence: 0.97%
+2024-09-30 08:47:53,544 - INFO - Text 10: Enter | Confidence: 1.00%
+2024-09-30 08:47:53,544 - INFO - Text 11: number | Confidence: 1.00%
+2024-09-30 08:47:53,544 - INFO - Text 12: "); | Confidence: 1.00%
+2024-09-30 08:47:53,544 - INFO - Text 13: int | Confidence: 1.00%
+2024-09-30 08:47:53,544 - INFO - Text 14: num | Confidence: 1.00%
+2024-09-30 08:47:53,544 - INFO - Text 15: nextInt(); | Confidence: 1.00%
+2024-09-30 08:47:53,544 - INFO - Text 16: int originalNum, | Confidence: 0.95%
+2024-09-30 08:47:53,544 - INFO - Text 17: rem, | Confidence: 0.97%
+2024-09-30 08:47:53,559 - INFO - Text 18: res | Confidence: 0.98%
+2024-09-30 08:47:53,559 - INFO - Text 19: 0; | Confidence: 0.99%
+2024-09-30 08:47:53,559 - INFO - Text 20: originalNum | Confidence: 1.00%
+2024-09-30 08:47:53,559 - INFO - Text 21: num; | Confidence: 1.00%
+2024-09-30 08:47:53,559 - INFO - Text 22: for (;originalNum | Confidence: 0.96%
+2024-09-30 08:47:53,559 - INFO - Text 23: I= 0; | Confidence: 0.73%
+2024-09-30 08:47:53,559 - INFO - Text 24: originalNum | Confidence: 1.00%
+2024-09-30 08:47:53,559 - INFO - Text 25: I = 10 | Confidence: 0.66%
+2024-09-30 08:47:53,559 - INFO - Text 26: ++n); { | Confidence: 0.41%
+2024-09-30 08:47:53,559 - INFO - Text 27: originalNum | Confidence: 0.96%
+2024-09-30 08:47:53,559 - INFO - Text 28: num; | Confidence: 1.00%
+2024-09-30 08:47:53,560 - INFO - Text 29: for (;originalNum | Confidence: 0.93%
+2024-09-30 08:47:53,560 - INFO - Text 30: I= 0 | Confidence: 0.74%
+2024-09-30 08:47:53,560 - INFO - Text 31: originalNum /= 10) | Confidence: 0.96%
+2024-09-30 08:47:53,560 - INFO - Text 32: rem | Confidence: 1.00%
+2024-09-30 08:47:53,560 - INFO - Text 33: originalNum % 10; | Confidence: 0.97%
+2024-09-30 08:47:53,560 - INFO - Text 34: res | Confidence: 1.00%
+2024-09-30 08:47:53,560 - INFO - Text 35: += | Confidence: 0.48%
+2024-09-30 08:47:53,560 - INFO - Text 36: Math.pow(rem, | Confidence: 0.87%
+2024-09-30 08:47:53,560 - INFO - Text 37: n); | Confidence: 1.00%
+2024-09-30 08:47:53,560 - INFO - Text 38: if(res | Confidence: 1.00%
+2024-09-30 08:47:53,560 - INFO - Text 39: E= | Confidence: 0.11%
+2024-09-30 08:47:53,560 - INFO - Text 40: num) | Confidence: 1.00%
+2024-09-30 08:47:53,560 - INFO - Text 41: System.out.println(num | Confidence: 0.71%
+2024-09-30 08:47:53,560 - INFO - Text 42: is | Confidence: 1.00%
+2024-09-30 08:47:53,560 - INFO - Text 43: an | Confidence: 1.00%
+2024-09-30 08:47:53,560 - INFO - Text 44: Armstrong number."); | Confidence: 0.76%
+2024-09-30 08:47:53,560 - INFO - Text 45: else | Confidence: 1.00%
+2024-09-30 08:47:53,560 - INFO - Text 46: System.out.println(num | Confidence: 0.97%
+2024-09-30 08:47:53,560 - INFO - Text 47: is not | Confidence: 1.00%
+2024-09-30 08:47:53,560 - INFO - Text 48: an | Confidence: 1.00%
+2024-09-30 08:47:53,560 - INFO - Text 49: Armstrong number | Confidence: 0.94%
+2024-09-30 08:47:53,560 - INFO - Text 50: ); | Confidence: 0.99%
+2024-09-30 08:47:53,560 - INFO - Average OCR Confidence: 0.91%
+2024-09-30 08:47:53,560 - INFO - Download button enabled for extracted text.
+2024-09-30 08:50:26,014 - INFO - No image uploaded.
+2024-09-30 08:50:26,123 - INFO - No image uploaded.
+2024-09-30 08:50:35,802 - INFO - Image uploaded and displayed.
+2024-09-30 08:50:35,802 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:50:35,802 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-09-30 08:50:39,796 - INFO - EasyOCR Reader initialized with languages: ['en']
+2024-09-30 08:50:39,796 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:50:39,812 - INFO - Converted image to grayscale.
+2024-09-30 08:50:47,067 - INFO - OCR extraction complete with 24 results.
+2024-09-30 08:50:47,067 - INFO - Text 1: UIlIC | Confidence: 0.11%
+2024-09-30 08:50:47,067 - INFO - Text 2: COMPIIC | Confidence: 0.49%
+2024-09-30 08:50:47,067 - INFO - Text 3: CO | Confidence: 0.19%
+2024-09-30 08:50:47,067 - INFO - Text 4: pi 05 | Confidence: 0.16%
+2024-09-30 08:50:47,067 - INFO - Text 5: am | Confidence: 0.41%
+2024-09-30 08:50:47,067 - INFO - Text 6: UILLI | Confidence: 0.03%
+2024-09-30 08:50:47,067 - INFO - Text 7: #include | Confidence: 1.00%
+2024-09-30 08:50:47,067 - INFO - Text 8: <stdio.h> | Confidence: 0.81%
+2024-09-30 08:50:47,067 - INFO - Text 9: int main() | Confidence: 0.99%
+2024-09-30 08:50:47,067 - INFO - Text 10: int a[5] | Confidence: 0.94%
+2024-09-30 08:50:47,067 - INFO - Text 11: {1,2,3,4,5} ; | Confidence: 0.97%
+2024-09-30 08:50:47,067 - INFO - Text 12: for(int 1-0 , | Confidence: 0.63%
+2024-09-30 08:50:47,067 - INFO - Text 13: int j-5-1; | Confidence: 0.98%
+2024-09-30 08:50:47,067 - INFO - Text 14: <= | Confidence: 0.99%
+2024-09-30 08:50:47,067 - INFO - Text 15: 5/2; i++,j++) { | Confidence: 0.86%
+2024-09-30 08:50:47,067 - INFO - Text 16: a[i] | Confidence: 0.98%
+2024-09-30 08:50:47,067 - INFO - Text 17: a[i]+a[j]; | Confidence: 0.99%
+2024-09-30 08:50:47,067 - INFO - Text 18: a[j] | Confidence: 1.00%
+2024-09-30 08:50:47,067 - INFO - Text 19: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:50:47,067 - INFO - Text 20: a[i] | Confidence: 0.96%
+2024-09-30 08:50:47,067 - INFO - Text 21: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:50:47,067 - INFO - Text 22: for(int i-0;1<5;1++) | Confidence: 0.41%
+2024-09-30 08:50:47,067 - INFO - Text 23: printf( "%dIn" ,a[i]); | Confidence: 0.66%
+2024-09-30 08:50:47,067 - INFO - Text 24: return 0; | Confidence: 0.73%
+2024-09-30 08:50:47,067 - INFO - Average OCR Confidence: 0.72%
+2024-09-30 08:50:47,067 - INFO - Download button enabled for extracted text.
+2024-09-30 08:50:57,116 - INFO - Image uploaded and displayed.
+2024-09-30 08:50:57,116 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:50:57,122 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:50:57,132 - INFO - Converted image to grayscale.
+2024-09-30 08:51:05,911 - INFO - OCR extraction complete with 24 results.
+2024-09-30 08:51:05,911 - INFO - Text 1: UIlIC | Confidence: 0.11%
+2024-09-30 08:51:05,911 - INFO - Text 2: COMPIIC | Confidence: 0.49%
+2024-09-30 08:51:05,911 - INFO - Text 3: CO | Confidence: 0.19%
+2024-09-30 08:51:05,911 - INFO - Text 4: pi 05 | Confidence: 0.16%
+2024-09-30 08:51:05,911 - INFO - Text 5: am | Confidence: 0.41%
+2024-09-30 08:51:05,911 - INFO - Text 6: UILLI | Confidence: 0.03%
+2024-09-30 08:51:05,911 - INFO - Text 7: #include | Confidence: 1.00%
+2024-09-30 08:51:05,911 - INFO - Text 8: <stdio.h> | Confidence: 0.81%
+2024-09-30 08:51:05,911 - INFO - Text 9: int main() | Confidence: 0.99%
+2024-09-30 08:51:05,911 - INFO - Text 10: int a[5] | Confidence: 0.94%
+2024-09-30 08:51:05,911 - INFO - Text 11: {1,2,3,4,5} ; | Confidence: 0.97%
+2024-09-30 08:51:05,911 - INFO - Text 12: for(int 1-0 , | Confidence: 0.63%
+2024-09-30 08:51:05,911 - INFO - Text 13: int j-5-1; | Confidence: 0.98%
+2024-09-30 08:51:05,911 - INFO - Text 14: <= | Confidence: 0.99%
+2024-09-30 08:51:05,911 - INFO - Text 15: 5/2; i++,j++) { | Confidence: 0.86%
+2024-09-30 08:51:05,911 - INFO - Text 16: a[i] | Confidence: 0.98%
+2024-09-30 08:51:05,911 - INFO - Text 17: a[i]+a[j]; | Confidence: 0.99%
+2024-09-30 08:51:05,911 - INFO - Text 18: a[j] | Confidence: 1.00%
+2024-09-30 08:51:05,911 - INFO - Text 19: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:51:05,911 - INFO - Text 20: a[i] | Confidence: 0.96%
+2024-09-30 08:51:05,911 - INFO - Text 21: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:51:05,911 - INFO - Text 22: for(int i-0;1<5;1++) | Confidence: 0.41%
+2024-09-30 08:51:05,911 - INFO - Text 23: printf( "%dIn" ,a[i]); | Confidence: 0.66%
+2024-09-30 08:51:05,911 - INFO - Text 24: return 0; | Confidence: 0.73%
+2024-09-30 08:51:05,911 - INFO - Average OCR Confidence: 0.72%
+2024-09-30 08:51:05,911 - INFO - Download button enabled for extracted text.
+2024-09-30 08:51:33,475 - INFO - No image uploaded.
+2024-09-30 08:51:33,553 - INFO - No image uploaded.
+2024-09-30 08:51:44,120 - INFO - Image uploaded and displayed.
+2024-09-30 08:51:44,135 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:51:44,135 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-09-30 08:51:48,258 - INFO - EasyOCR Reader initialized with languages: ['en']
+2024-09-30 08:51:48,268 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:51:48,268 - INFO - Converted image to grayscale.
+2024-09-30 08:51:56,185 - INFO - OCR extraction complete with 24 results.
+2024-09-30 08:51:56,185 - INFO - Text 1: UIlIC | Confidence: 0.11%
+2024-09-30 08:51:56,185 - INFO - Text 2: COMPIIC | Confidence: 0.49%
+2024-09-30 08:51:56,185 - INFO - Text 3: CO | Confidence: 0.19%
+2024-09-30 08:51:56,185 - INFO - Text 4: pi 05 | Confidence: 0.16%
+2024-09-30 08:51:56,185 - INFO - Text 5: am | Confidence: 0.41%
+2024-09-30 08:51:56,185 - INFO - Text 6: UILLI | Confidence: 0.03%
+2024-09-30 08:51:56,185 - INFO - Text 7: #include | Confidence: 1.00%
+2024-09-30 08:51:56,185 - INFO - Text 8: <stdio.h> | Confidence: 0.81%
+2024-09-30 08:51:56,185 - INFO - Text 9: int main() | Confidence: 0.99%
+2024-09-30 08:51:56,185 - INFO - Text 10: int a[5] | Confidence: 0.94%
+2024-09-30 08:51:56,185 - INFO - Text 11: {1,2,3,4,5} ; | Confidence: 0.97%
+2024-09-30 08:51:56,185 - INFO - Text 12: for(int 1-0 , | Confidence: 0.63%
+2024-09-30 08:51:56,185 - INFO - Text 13: int j-5-1; | Confidence: 0.98%
+2024-09-30 08:51:56,185 - INFO - Text 14: <= | Confidence: 0.99%
+2024-09-30 08:51:56,185 - INFO - Text 15: 5/2; i++,j++) { | Confidence: 0.86%
+2024-09-30 08:51:56,185 - INFO - Text 16: a[i] | Confidence: 0.98%
+2024-09-30 08:51:56,185 - INFO - Text 17: a[i]+a[j]; | Confidence: 0.99%
+2024-09-30 08:51:56,185 - INFO - Text 18: a[j] | Confidence: 1.00%
+2024-09-30 08:51:56,185 - INFO - Text 19: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:51:56,185 - INFO - Text 20: a[i] | Confidence: 0.96%
+2024-09-30 08:51:56,185 - INFO - Text 21: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:51:56,185 - INFO - Text 22: for(int i-0;1<5;1++) | Confidence: 0.41%
+2024-09-30 08:51:56,185 - INFO - Text 23: printf( "%dIn" ,a[i]); | Confidence: 0.66%
+2024-09-30 08:51:56,185 - INFO - Text 24: return 0; | Confidence: 0.73%
+2024-09-30 08:51:56,185 - INFO - Average OCR Confidence: 0.72%
+2024-09-30 08:51:56,185 - INFO - Download button enabled for extracted text.
+2024-09-30 08:52:03,540 - INFO - Image uploaded and displayed.
+2024-09-30 08:52:03,540 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:52:03,553 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:52:03,556 - INFO - Converted image to grayscale.
+2024-09-30 08:52:12,867 - INFO - OCR extraction complete with 24 results.
+2024-09-30 08:52:12,867 - INFO - Text 1: UIlIC | Confidence: 0.11%
+2024-09-30 08:52:12,867 - INFO - Text 2: COMPIIC | Confidence: 0.49%
+2024-09-30 08:52:12,867 - INFO - Text 3: CO | Confidence: 0.19%
+2024-09-30 08:52:12,867 - INFO - Text 4: pi 05 | Confidence: 0.16%
+2024-09-30 08:52:12,867 - INFO - Text 5: am | Confidence: 0.41%
+2024-09-30 08:52:12,867 - INFO - Text 6: UILLI | Confidence: 0.03%
+2024-09-30 08:52:12,867 - INFO - Text 7: #include | Confidence: 1.00%
+2024-09-30 08:52:12,867 - INFO - Text 8: <stdio.h> | Confidence: 0.81%
+2024-09-30 08:52:12,867 - INFO - Text 9: int main() | Confidence: 0.99%
+2024-09-30 08:52:12,867 - INFO - Text 10: int a[5] | Confidence: 0.94%
+2024-09-30 08:52:12,867 - INFO - Text 11: {1,2,3,4,5} ; | Confidence: 0.97%
+2024-09-30 08:52:12,867 - INFO - Text 12: for(int 1-0 , | Confidence: 0.63%
+2024-09-30 08:52:12,867 - INFO - Text 13: int j-5-1; | Confidence: 0.98%
+2024-09-30 08:52:12,867 - INFO - Text 14: <= | Confidence: 0.99%
+2024-09-30 08:52:12,867 - INFO - Text 15: 5/2; i++,j++) { | Confidence: 0.86%
+2024-09-30 08:52:12,867 - INFO - Text 16: a[i] | Confidence: 0.98%
+2024-09-30 08:52:12,867 - INFO - Text 17: a[i]+a[j]; | Confidence: 0.99%
+2024-09-30 08:52:12,867 - INFO - Text 18: a[j] | Confidence: 1.00%
+2024-09-30 08:52:12,867 - INFO - Text 19: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:52:12,867 - INFO - Text 20: a[i] | Confidence: 0.96%
+2024-09-30 08:52:12,867 - INFO - Text 21: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:52:12,867 - INFO - Text 22: for(int i-0;1<5;1++) | Confidence: 0.41%
+2024-09-30 08:52:12,867 - INFO - Text 23: printf( "%dIn" ,a[i]); | Confidence: 0.66%
+2024-09-30 08:52:12,867 - INFO - Text 24: return 0; | Confidence: 0.73%
+2024-09-30 08:52:12,883 - INFO - Average OCR Confidence: 0.72%
+2024-09-30 08:52:12,883 - INFO - Download button enabled for extracted text.
+2024-09-30 08:55:09,036 - INFO - No image uploaded.
+2024-09-30 08:55:09,129 - INFO - No image uploaded.
+2024-09-30 08:55:16,235 - INFO - Image uploaded and displayed.
+2024-09-30 08:55:16,235 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:55:16,235 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-09-30 08:55:20,285 - INFO - EasyOCR Reader initialized with languages: ['en']
+2024-09-30 08:55:20,301 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:55:20,301 - INFO - Converted image to grayscale.
+2024-09-30 08:55:23,591 - INFO - OCR extraction complete with 7 results.
+2024-09-30 08:55:23,591 - INFO - Text 1: 3 d17q14a 4 f4416 , | Confidence: 0.06%
+2024-09-30 08:55:23,591 - INFO - Text 2: 7741 | Confidence: 0.23%
+2024-09-30 08:55:23,591 - INFO - Text 3: 4 eafs, | Confidence: 0.21%
+2024-09-30 08:55:23,591 - INFO - Text 4: Tal | Confidence: 0.65%
+2024-09-30 08:55:23,591 - INFO - Text 5: 4alcu1aII | Confidence: 0.03%
+2024-09-30 08:55:23,591 - INFO - Text 6: gar | Confidence: 0.48%
+2024-09-30 08:55:23,591 - INFO - Text 7: sji | Confidence: 0.05%
+2024-09-30 08:55:23,608 - INFO - Average OCR Confidence: 0.25%
+2024-09-30 08:55:23,608 - INFO - Download button enabled for extracted text.
+2024-09-30 08:55:28,389 - INFO - Image uploaded and displayed.
+2024-09-30 08:55:28,389 - INFO - OCR Languages selected: Hindi (hi)
+2024-09-30 08:55:28,395 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-09-30 08:55:34,140 - INFO - EasyOCR Reader initialized with languages: ['hi']
+2024-09-30 08:55:34,140 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:55:34,145 - INFO - Converted image to grayscale.
+2024-09-30 08:55:41,360 - INFO - OCR extraction complete with 7 results.
+2024-09-30 08:55:41,360 - INFO - Text 1: \u090a\u0901 \u0915\u093e\u0924\u094d\u092f\u093e\u092f\u0928\u094d\u092f\u0948 \u0935\u093f\u0926\u094d\u092e\u0939\u0947, | Confidence: 0.37%
+2024-09-30 08:55:41,360 - INFO - Text 2: \u0915\u0928\u094d\u092f\u093e | Confidence: 0.51%
+2024-09-30 08:55:41,360 - INFO - Text 3: \u091a \u0927\u0940\u092e\u0939\u093f, | Confidence: 0.57%
+2024-09-30 08:55:41,376 - INFO - Text 4: \u0924\u0928\u094d\u0928\u093e | Confidence: 0.51%
+2024-09-30 08:55:41,376 - INFO - Text 5: \u092a\u094d\u0930\u091a\u094b\u0926\u092f\u093e\u0924\u094d| | | Confidence: 0.36%
+2024-09-30 08:55:41,376 - INFO - Text 6: \u0915\u0941\u092e\u093e\u0930\u093f | Confidence: 0.68%
+2024-09-30 08:55:41,376 - INFO - Text 7: \u0926\u0941\u0930\u094d\u0917\u093e | Confidence: 0.84%
+2024-09-30 08:55:41,376 - INFO - Average OCR Confidence: 0.55%
+2024-09-30 08:55:41,376 - INFO - Download button enabled for extracted text.
+2024-09-30 08:56:05,022 - INFO - Image uploaded and displayed.
+2024-09-30 08:56:05,022 - INFO - OCR Languages selected: Hindi (hi)
+2024-09-30 08:56:05,022 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:56:05,037 - INFO - Converted image to grayscale.
+2024-09-30 08:56:12,883 - INFO - OCR extraction complete with 7 results.
+2024-09-30 08:56:12,883 - INFO - Text 1: \u090a\u0901 \u0915\u093e\u0924\u094d\u092f\u093e\u092f\u0928\u094d\u092f\u0948 \u0935\u093f\u0926\u094d\u092e\u0939\u0947, | Confidence: 0.37%
+2024-09-30 08:56:12,883 - INFO - Text 2: \u0915\u0928\u094d\u092f\u093e | Confidence: 0.51%
+2024-09-30 08:56:12,883 - INFO - Text 3: \u091a \u0927\u0940\u092e\u0939\u093f, | Confidence: 0.57%
+2024-09-30 08:56:12,883 - INFO - Text 4: \u0924\u0928\u094d\u0928\u093e | Confidence: 0.51%
+2024-09-30 08:56:12,883 - INFO - Text 5: \u092a\u094d\u0930\u091a\u094b\u0926\u092f\u093e\u0924\u094d| | | Confidence: 0.36%
+2024-09-30 08:56:12,883 - INFO - Text 6: \u0915\u0941\u092e\u093e\u0930\u093f | Confidence: 0.68%
+2024-09-30 08:56:12,883 - INFO - Text 7: \u0926\u0941\u0930\u094d\u0917\u093e | Confidence: 0.84%
+2024-09-30 08:56:12,900 - INFO - Average OCR Confidence: 0.55%
+2024-09-30 08:56:12,900 - INFO - Download button enabled for extracted text.
+2024-09-30 08:56:22,859 - INFO - Image uploaded and displayed.
+2024-09-30 08:56:22,861 - INFO - OCR Languages selected: Hindi (hi)
+2024-09-30 08:56:22,870 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:56:22,875 - INFO - Converted image to grayscale.
+2024-09-30 08:56:23,224 - INFO - No image uploaded.
+2024-09-30 08:56:29,358 - INFO - Image uploaded and displayed.
+2024-09-30 08:56:29,358 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:56:29,390 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:56:29,390 - INFO - Converted image to grayscale.
+2024-09-30 08:56:38,402 - INFO - OCR extraction complete with 24 results.
+2024-09-30 08:56:38,402 - INFO - Text 1: UIlIC | Confidence: 0.11%
+2024-09-30 08:56:38,402 - INFO - Text 2: COMPIIC | Confidence: 0.49%
+2024-09-30 08:56:38,402 - INFO - Text 3: CO | Confidence: 0.19%
+2024-09-30 08:56:38,402 - INFO - Text 4: pi 05 | Confidence: 0.16%
+2024-09-30 08:56:38,402 - INFO - Text 5: am | Confidence: 0.41%
+2024-09-30 08:56:38,402 - INFO - Text 6: UILLI | Confidence: 0.03%
+2024-09-30 08:56:38,402 - INFO - Text 7: #include | Confidence: 1.00%
+2024-09-30 08:56:38,402 - INFO - Text 8: <stdio.h> | Confidence: 0.81%
+2024-09-30 08:56:38,402 - INFO - Text 9: int main() | Confidence: 0.99%
+2024-09-30 08:56:38,402 - INFO - Text 10: int a[5] | Confidence: 0.94%
+2024-09-30 08:56:38,402 - INFO - Text 11: {1,2,3,4,5} ; | Confidence: 0.97%
+2024-09-30 08:56:38,402 - INFO - Text 12: for(int 1-0 , | Confidence: 0.63%
+2024-09-30 08:56:38,402 - INFO - Text 13: int j-5-1; | Confidence: 0.98%
+2024-09-30 08:56:38,402 - INFO - Text 14: <= | Confidence: 0.99%
+2024-09-30 08:56:38,402 - INFO - Text 15: 5/2; i++,j++) { | Confidence: 0.86%
+2024-09-30 08:56:38,402 - INFO - Text 16: a[i] | Confidence: 0.98%
+2024-09-30 08:56:38,402 - INFO - Text 17: a[i]+a[j]; | Confidence: 0.99%
+2024-09-30 08:56:38,402 - INFO - Text 18: a[j] | Confidence: 1.00%
+2024-09-30 08:56:38,402 - INFO - Text 19: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:56:38,402 - INFO - Text 20: a[i] | Confidence: 0.96%
+2024-09-30 08:56:38,402 - INFO - Text 21: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:56:38,402 - INFO - Text 22: for(int i-0;1<5;1++) | Confidence: 0.41%
+2024-09-30 08:56:38,402 - INFO - Text 23: printf( "%dIn" ,a[i]); | Confidence: 0.66%
+2024-09-30 08:56:38,402 - INFO - Text 24: return 0; | Confidence: 0.73%
+2024-09-30 08:56:38,402 - INFO - Average OCR Confidence: 0.72%
+2024-09-30 08:56:38,402 - INFO - Download button enabled for extracted text.
+2024-09-30 08:56:45,495 - INFO - Image uploaded and displayed.
+2024-09-30 08:56:45,495 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:56:45,514 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:56:45,521 - INFO - Converted image to grayscale.
+2024-09-30 08:56:52,990 - INFO - OCR extraction complete with 24 results.
+2024-09-30 08:56:52,990 - INFO - Text 1: UIlIC | Confidence: 0.11%
+2024-09-30 08:56:52,990 - INFO - Text 2: COMPIIC | Confidence: 0.49%
+2024-09-30 08:56:52,990 - INFO - Text 3: CO | Confidence: 0.19%
+2024-09-30 08:56:53,006 - INFO - Text 4: pi 05 | Confidence: 0.16%
+2024-09-30 08:56:53,007 - INFO - Text 5: am | Confidence: 0.41%
+2024-09-30 08:56:53,007 - INFO - Text 6: UILLI | Confidence: 0.03%
+2024-09-30 08:56:53,008 - INFO - Text 7: #include | Confidence: 1.00%
+2024-09-30 08:56:53,008 - INFO - Text 8: <stdio.h> | Confidence: 0.81%
+2024-09-30 08:56:53,008 - INFO - Text 9: int main() | Confidence: 0.99%
+2024-09-30 08:56:53,008 - INFO - Text 10: int a[5] | Confidence: 0.94%
+2024-09-30 08:56:53,008 - INFO - Text 11: {1,2,3,4,5} ; | Confidence: 0.97%
+2024-09-30 08:56:53,008 - INFO - Text 12: for(int 1-0 , | Confidence: 0.63%
+2024-09-30 08:56:53,008 - INFO - Text 13: int j-5-1; | Confidence: 0.98%
+2024-09-30 08:56:53,008 - INFO - Text 14: <= | Confidence: 0.99%
+2024-09-30 08:56:53,008 - INFO - Text 15: 5/2; i++,j++) { | Confidence: 0.86%
+2024-09-30 08:56:53,008 - INFO - Text 16: a[i] | Confidence: 0.98%
+2024-09-30 08:56:53,008 - INFO - Text 17: a[i]+a[j]; | Confidence: 0.99%
+2024-09-30 08:56:53,008 - INFO - Text 18: a[j] | Confidence: 1.00%
+2024-09-30 08:56:53,008 - INFO - Text 19: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:56:53,008 - INFO - Text 20: a[i] | Confidence: 0.96%
+2024-09-30 08:56:53,008 - INFO - Text 21: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:56:53,008 - INFO - Text 22: for(int i-0;1<5;1++) | Confidence: 0.41%
+2024-09-30 08:56:53,008 - INFO - Text 23: printf( "%dIn" ,a[i]); | Confidence: 0.66%
+2024-09-30 08:56:53,008 - INFO - Text 24: return 0; | Confidence: 0.73%
+2024-09-30 08:56:53,008 - INFO - Average OCR Confidence: 0.72%
+2024-09-30 08:56:53,008 - INFO - Download button enabled for extracted text.
+2024-09-30 08:57:00,752 - INFO - Image uploaded and displayed.
+2024-09-30 08:57:00,753 - INFO - OCR Languages selected: English (en)
+2024-09-30 08:57:00,753 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 08:57:00,769 - INFO - Converted image to grayscale.
+2024-09-30 08:57:08,702 - INFO - OCR extraction complete with 24 results.
+2024-09-30 08:57:08,702 - INFO - Text 1: UIlIC | Confidence: 0.11%
+2024-09-30 08:57:08,702 - INFO - Text 2: COMPIIC | Confidence: 0.49%
+2024-09-30 08:57:08,702 - INFO - Text 3: CO | Confidence: 0.19%
+2024-09-30 08:57:08,702 - INFO - Text 4: pi 05 | Confidence: 0.16%
+2024-09-30 08:57:08,702 - INFO - Text 5: am | Confidence: 0.41%
+2024-09-30 08:57:08,702 - INFO - Text 6: UILLI | Confidence: 0.03%
+2024-09-30 08:57:08,718 - INFO - Text 7: #include | Confidence: 1.00%
+2024-09-30 08:57:08,718 - INFO - Text 8: <stdio.h> | Confidence: 0.81%
+2024-09-30 08:57:08,718 - INFO - Text 9: int main() | Confidence: 0.99%
+2024-09-30 08:57:08,718 - INFO - Text 10: int a[5] | Confidence: 0.94%
+2024-09-30 08:57:08,718 - INFO - Text 11: {1,2,3,4,5} ; | Confidence: 0.97%
+2024-09-30 08:57:08,718 - INFO - Text 12: for(int 1-0 , | Confidence: 0.63%
+2024-09-30 08:57:08,718 - INFO - Text 13: int j-5-1; | Confidence: 0.98%
+2024-09-30 08:57:08,718 - INFO - Text 14: <= | Confidence: 0.99%
+2024-09-30 08:57:08,718 - INFO - Text 15: 5/2; i++,j++) { | Confidence: 0.86%
+2024-09-30 08:57:08,718 - INFO - Text 16: a[i] | Confidence: 0.98%
+2024-09-30 08:57:08,718 - INFO - Text 17: a[i]+a[j]; | Confidence: 0.99%
+2024-09-30 08:57:08,718 - INFO - Text 18: a[j] | Confidence: 1.00%
+2024-09-30 08:57:08,718 - INFO - Text 19: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:57:08,718 - INFO - Text 20: a[i] | Confidence: 0.96%
+2024-09-30 08:57:08,718 - INFO - Text 21: a[i]-a[j]; | Confidence: 0.99%
+2024-09-30 08:57:08,718 - INFO - Text 22: for(int i-0;1<5;1++) | Confidence: 0.41%
+2024-09-30 08:57:08,718 - INFO - Text 23: printf( "%dIn" ,a[i]); | Confidence: 0.66%
+2024-09-30 08:57:08,718 - INFO - Text 24: return 0; | Confidence: 0.73%
+2024-09-30 08:57:08,718 - INFO - Average OCR Confidence: 0.72%
+2024-09-30 08:57:08,718 - INFO - Download button enabled for extracted text.
+2024-09-30 09:00:22,283 - INFO - No image uploaded.
+2024-09-30 09:00:38,708 - INFO - Image uploaded and displayed.
+2024-09-30 09:00:38,708 - INFO - OCR Languages selected: English (en)
+2024-09-30 09:00:38,726 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 09:00:38,726 - INFO - Converted image to grayscale.
+2024-09-30 09:00:43,284 - INFO - OCR extraction complete with 19 results.
+2024-09-30 09:00:43,284 - INFO - Text 1: War  IcmU [7" | Confidence: 0.03%
+2024-09-30 09:00:43,284 - INFO - Text 2: scuareroct | Confidence: 0.77%
+2024-09-30 09:00:43,284 - INFO - Text 3: rcun(corte | Confidence: 0.39%
+2024-09-30 09:00:43,284 - INFO - Text 4: frcmIntegral | Confidence: 0.67%
+2024-09-30 09:00:43,284 - INFO - Text 5: nlm)) | Confidence: 0.71%
+2024-09-30 09:00:43,284 - INFO - Text 6: isTriangle Nur | Confidence: 0.40%
+2024-09-30 09:00:43,284 - INFO - Text 7: (x+1)) | Confidence: 0.44%
+2024-09-30 09:00:43,284 - INFO - Text 8: Wrum | Confidence: 0.19%
+2024-09-30 09:00:43,284 - INFO - Text 9: Uhere | Confidence: 0.21%
+2024-09-30 09:00:43,284 - INFO - Text 10: squarercde 2um' | Confidence: 0.07%
+2024-09-30 09:00:43,284 - INFO - Text 11: main | Confidence: 0.68%
+2024-09-30 09:00:43,284 - INFO - Text 12: print | Confidence: 0.98%
+2024-09-30 09:00:43,284 - INFO - Text 13: isTriangleNum | Confidence: 0.60%
+2024-09-30 09:00:43,284 - INFO - Text 14: iSTriangleNum 30 | Confidence: 0.63%
+2024-09-30 09:00:43,284 - INFO - Text 15: isTriangleNum 1431 | Confidence: 0.96%
+2024-09-30 09:00:43,284 - INFO - Text 16: isTriangleNlum 13ea | Confidence: 0.43%
+2024-09-30 09:00:43,284 - INFO - Text 17: pr-nt | Confidence: 0.42%
+2024-09-30 09:00:43,284 - INFO - Text 18: print | Confidence: 0.65%
+2024-09-30 09:00:43,284 - INFO - Text 19: pr-nt | Confidence: 0.46%
+2024-09-30 09:00:43,300 - INFO - Average OCR Confidence: 0.51%
+2024-09-30 09:00:43,300 - INFO - Download button enabled for extracted text.
+2024-09-30 09:00:51,990 - INFO - Image uploaded and displayed.
+2024-09-30 09:00:52,006 - INFO - OCR Languages selected: English (en)
+2024-09-30 09:00:52,010 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 09:00:52,010 - INFO - Converted image to grayscale.
+2024-09-30 09:00:56,491 - INFO - OCR extraction complete with 19 results.
+2024-09-30 09:00:56,491 - INFO - Text 1: War  IcmU [7" | Confidence: 0.03%
+2024-09-30 09:00:56,491 - INFO - Text 2: scuareroct | Confidence: 0.77%
+2024-09-30 09:00:56,491 - INFO - Text 3: rcun(corte | Confidence: 0.39%
+2024-09-30 09:00:56,491 - INFO - Text 4: frcmIntegral | Confidence: 0.67%
+2024-09-30 09:00:56,491 - INFO - Text 5: nlm)) | Confidence: 0.71%
+2024-09-30 09:00:56,491 - INFO - Text 6: isTriangle Nur | Confidence: 0.40%
+2024-09-30 09:00:56,491 - INFO - Text 7: (x+1)) | Confidence: 0.44%
+2024-09-30 09:00:56,491 - INFO - Text 8: Wrum | Confidence: 0.19%
+2024-09-30 09:00:56,491 - INFO - Text 9: Uhere | Confidence: 0.21%
+2024-09-30 09:00:56,495 - INFO - Text 10: squarercde 2um' | Confidence: 0.07%
+2024-09-30 09:00:56,495 - INFO - Text 11: main | Confidence: 0.68%
+2024-09-30 09:00:56,495 - INFO - Text 12: print | Confidence: 0.98%
+2024-09-30 09:00:56,495 - INFO - Text 13: isTriangleNum | Confidence: 0.60%
+2024-09-30 09:00:56,495 - INFO - Text 14: iSTriangleNum 30 | Confidence: 0.63%
+2024-09-30 09:00:56,495 - INFO - Text 15: isTriangleNum 1431 | Confidence: 0.96%
+2024-09-30 09:00:56,495 - INFO - Text 16: isTriangleNlum 13ea | Confidence: 0.43%
+2024-09-30 09:00:56,495 - INFO - Text 17: pr-nt | Confidence: 0.42%
+2024-09-30 09:00:56,495 - INFO - Text 18: print | Confidence: 0.65%
+2024-09-30 09:00:56,495 - INFO - Text 19: pr-nt | Confidence: 0.46%
+2024-09-30 09:00:56,495 - INFO - Average OCR Confidence: 0.51%
+2024-09-30 09:00:56,495 - INFO - Download button enabled for extracted text.
+2024-09-30 09:01:03,187 - INFO - No image uploaded.
+2024-09-30 09:06:28,609 - INFO - Image uploaded and displayed.
+2024-09-30 09:06:28,618 - INFO - OCR Languages selected: English (en)
+2024-09-30 09:06:28,626 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 09:06:28,628 - INFO - Converted image to grayscale.
+2024-09-30 09:06:35,773 - INFO - OCR extraction complete with 50 results.
+2024-09-30 09:06:35,785 - INFO - Text 1: import | Confidence: 1.00%
+2024-09-30 09:06:35,786 - INFO - Text 2: java.lang | Confidence: 0.98%
+2024-09-30 09:06:35,786 - INFO - Text 3: import java.util | Confidence: 0.98%
+2024-09-30 09:06:35,786 - INFO - Text 4: public class Main | Confidence: 0.99%
+2024-09-30 09:06:35,786 - INFO - Text 5: { | Confidence: 1.00%
+2024-09-30 09:06:35,787 - INFO - Text 6: public static void main(String[] args) | Confidence: 0.85%
+2024-09-30 09:06:35,787 - INFO - Text 7: Scanner | Confidence: 1.00%
+2024-09-30 09:06:35,787 - INFO - Text 8: new | Confidence: 0.92%
+2024-09-30 09:06:35,787 - INFO - Text 9: Scanner( System.in); | Confidence: 0.75%
+2024-09-30 09:06:35,787 - INFO - Text 10: System.out.print("Enter | Confidence: 0.88%
+2024-09-30 09:06:35,787 - INFO - Text 11: a number | Confidence: 0.99%
+2024-09-30 09:06:35,787 - INFO - Text 12: '); | Confidence: 0.96%
+2024-09-30 09:06:35,787 - INFO - Text 13: int | Confidence: 1.00%
+2024-09-30 09:06:35,787 - INFO - Text 14: num | Confidence: 1.00%
+2024-09-30 09:06:35,787 - INFO - Text 15: nextInt(); | Confidence: 1.00%
+2024-09-30 09:06:35,787 - INFO - Text 16: int | Confidence: 1.00%
+2024-09-30 09:06:35,787 - INFO - Text 17: originalNum, | Confidence: 0.99%
+2024-09-30 09:06:35,787 - INFO - Text 18: rem, | Confidence: 0.68%
+2024-09-30 09:06:35,787 - INFO - Text 19: res | Confidence: 1.00%
+2024-09-30 09:06:35,787 - INFO - Text 20: 0, | Confidence: 1.00%
+2024-09-30 09:06:35,788 - INFO - Text 21: 0; | Confidence: 1.00%
+2024-09-30 09:06:35,788 - INFO - Text 22: originalNum | Confidence: 1.00%
+2024-09-30 09:06:35,788 - INFO - Text 23: num; | Confidence: 1.00%
+2024-09-30 09:06:35,789 - INFO - Text 24: for (;originalNum | Confidence: 0.95%
+2024-09-30 09:06:35,789 - INFO - Text 25: I= 0; originalNum | Confidence: 0.75%
+2024-09-30 09:06:35,789 - INFO - Text 26: [= 10, | Confidence: 0.57%
+2024-09-30 09:06:35,790 - INFO - Text 27: ++n); { | Confidence: 0.91%
+2024-09-30 09:06:35,790 - INFO - Text 28: originalNum | Confidence: 1.00%
+2024-09-30 09:06:35,790 - INFO - Text 29: num; | Confidence: 1.00%
+2024-09-30 09:06:35,790 - INFO - Text 30: for (;originalNum | Confidence: 0.94%
+2024-09-30 09:06:35,790 - INFO - Text 31: I= 0; originalNum /= 10) | Confidence: 0.78%
+2024-09-30 09:06:35,790 - INFO - Text 32: rem | Confidence: 1.00%
+2024-09-30 09:06:35,790 - INFO - Text 33: originalNum | Confidence: 1.00%
+2024-09-30 09:06:35,790 - INFO - Text 34: % 10; | Confidence: 0.92%
+2024-09-30 09:06:35,790 - INFO - Text 35: res | Confidence: 1.00%
+2024-09-30 09:06:35,790 - INFO - Text 36: Math.pow(rem, | Confidence: 0.87%
+2024-09-30 09:06:35,790 - INFO - Text 37: n); | Confidence: 1.00%
+2024-09-30 09:06:35,790 - INFO - Text 38: if(res | Confidence: 1.00%
+2024-09-30 09:06:35,790 - INFO - Text 39: Z= | Confidence: 0.20%
+2024-09-30 09:06:35,790 - INFO - Text 40: num) | Confidence: 1.00%
+2024-09-30 09:06:35,790 - INFO - Text 41: System.out.println(num | Confidence: 0.85%
+2024-09-30 09:06:35,790 - INFO - Text 42: is | Confidence: 1.00%
+2024-09-30 09:06:35,791 - INFO - Text 43: an | Confidence: 1.00%
+2024-09-30 09:06:35,791 - INFO - Text 44: Armstrong number."); | Confidence: 0.98%
+2024-09-30 09:06:35,791 - INFO - Text 45: else | Confidence: 1.00%
+2024-09-30 09:06:35,791 - INFO - Text 46: System.out.println(num | Confidence: 0.86%
+2024-09-30 09:06:35,791 - INFO - Text 47: is not | Confidence: 0.99%
+2024-09-30 09:06:35,791 - INFO - Text 48: an | Confidence: 1.00%
+2024-09-30 09:06:35,791 - INFO - Text 49: Armstrong number."); | Confidence: 0.87%
+2024-09-30 09:06:35,791 - INFO - Text 50: +2 | Confidence: 0.22%
+2024-09-30 09:06:35,795 - INFO - Average OCR Confidence: 0.91%
+2024-09-30 09:06:35,795 - INFO - Download button enabled for extracted text.
+2024-09-30 09:06:41,277 - INFO - Image uploaded and displayed.
+2024-09-30 09:06:41,277 - INFO - OCR Languages selected: English (en)
+2024-09-30 09:06:41,291 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 09:06:41,296 - INFO - Converted image to grayscale.
+2024-09-30 09:06:47,277 - INFO - OCR extraction complete with 50 results.
+2024-09-30 09:06:47,278 - INFO - Text 1: import | Confidence: 1.00%
+2024-09-30 09:06:47,278 - INFO - Text 2: java.lang | Confidence: 0.98%
+2024-09-30 09:06:47,278 - INFO - Text 3: import java.util | Confidence: 0.98%
+2024-09-30 09:06:47,278 - INFO - Text 4: public class Main | Confidence: 0.99%
+2024-09-30 09:06:47,278 - INFO - Text 5: { | Confidence: 1.00%
+2024-09-30 09:06:47,278 - INFO - Text 6: public static void main(String[] args) | Confidence: 0.85%
+2024-09-30 09:06:47,278 - INFO - Text 7: Scanner | Confidence: 1.00%
+2024-09-30 09:06:47,278 - INFO - Text 8: new | Confidence: 0.92%
+2024-09-30 09:06:47,279 - INFO - Text 9: Scanner( System.in); | Confidence: 0.75%
+2024-09-30 09:06:47,279 - INFO - Text 10: System.out.print("Enter | Confidence: 0.88%
+2024-09-30 09:06:47,279 - INFO - Text 11: a number | Confidence: 0.99%
+2024-09-30 09:06:47,279 - INFO - Text 12: '); | Confidence: 0.96%
+2024-09-30 09:06:47,279 - INFO - Text 13: int | Confidence: 1.00%
+2024-09-30 09:06:47,279 - INFO - Text 14: num | Confidence: 1.00%
+2024-09-30 09:06:47,279 - INFO - Text 15: nextInt(); | Confidence: 1.00%
+2024-09-30 09:06:47,279 - INFO - Text 16: int | Confidence: 1.00%
+2024-09-30 09:06:47,279 - INFO - Text 17: originalNum, | Confidence: 0.99%
+2024-09-30 09:06:47,279 - INFO - Text 18: rem, | Confidence: 0.68%
+2024-09-30 09:06:47,279 - INFO - Text 19: res | Confidence: 1.00%
+2024-09-30 09:06:47,279 - INFO - Text 20: 0, | Confidence: 1.00%
+2024-09-30 09:06:47,279 - INFO - Text 21: 0; | Confidence: 1.00%
+2024-09-30 09:06:47,279 - INFO - Text 22: originalNum | Confidence: 1.00%
+2024-09-30 09:06:47,279 - INFO - Text 23: num; | Confidence: 1.00%
+2024-09-30 09:06:47,280 - INFO - Text 24: for (;originalNum | Confidence: 0.95%
+2024-09-30 09:06:47,280 - INFO - Text 25: I= 0; originalNum | Confidence: 0.75%
+2024-09-30 09:06:47,280 - INFO - Text 26: [= 10, | Confidence: 0.57%
+2024-09-30 09:06:47,280 - INFO - Text 27: ++n); { | Confidence: 0.91%
+2024-09-30 09:06:47,280 - INFO - Text 28: originalNum | Confidence: 1.00%
+2024-09-30 09:06:47,280 - INFO - Text 29: num; | Confidence: 1.00%
+2024-09-30 09:06:47,280 - INFO - Text 30: for (;originalNum | Confidence: 0.94%
+2024-09-30 09:06:47,280 - INFO - Text 31: I= 0; originalNum /= 10) | Confidence: 0.78%
+2024-09-30 09:06:47,280 - INFO - Text 32: rem | Confidence: 1.00%
+2024-09-30 09:06:47,280 - INFO - Text 33: originalNum | Confidence: 1.00%
+2024-09-30 09:06:47,280 - INFO - Text 34: % 10; | Confidence: 0.92%
+2024-09-30 09:06:47,280 - INFO - Text 35: res | Confidence: 1.00%
+2024-09-30 09:06:47,280 - INFO - Text 36: Math.pow(rem, | Confidence: 0.87%
+2024-09-30 09:06:47,280 - INFO - Text 37: n); | Confidence: 1.00%
+2024-09-30 09:06:47,280 - INFO - Text 38: if(res | Confidence: 1.00%
+2024-09-30 09:06:47,280 - INFO - Text 39: Z= | Confidence: 0.20%
+2024-09-30 09:06:47,280 - INFO - Text 40: num) | Confidence: 1.00%
+2024-09-30 09:06:47,281 - INFO - Text 41: System.out.println(num | Confidence: 0.85%
+2024-09-30 09:06:47,281 - INFO - Text 42: is | Confidence: 1.00%
+2024-09-30 09:06:47,281 - INFO - Text 43: an | Confidence: 1.00%
+2024-09-30 09:06:47,281 - INFO - Text 44: Armstrong number."); | Confidence: 0.98%
+2024-09-30 09:06:47,281 - INFO - Text 45: else | Confidence: 1.00%
+2024-09-30 09:06:47,281 - INFO - Text 46: System.out.println(num | Confidence: 0.86%
+2024-09-30 09:06:47,281 - INFO - Text 47: is not | Confidence: 0.99%
+2024-09-30 09:06:47,281 - INFO - Text 48: an | Confidence: 1.00%
+2024-09-30 09:06:47,281 - INFO - Text 49: Armstrong number."); | Confidence: 0.87%
+2024-09-30 09:06:47,281 - INFO - Text 50: +2 | Confidence: 0.22%
+2024-09-30 09:06:47,284 - INFO - Average OCR Confidence: 0.91%
+2024-09-30 09:06:47,285 - INFO - Download button enabled for extracted text.
+2024-09-30 09:06:54,291 - INFO - Image uploaded and displayed.
+2024-09-30 09:06:54,291 - INFO - OCR Languages selected: English (en)
+2024-09-30 09:06:54,304 - INFO - Converted PIL Image to OpenCV format.
+2024-09-30 09:06:54,310 - INFO - Converted image to grayscale.
+2024-09-30 09:07:01,604 - INFO - OCR extraction complete with 50 results.
+2024-09-30 09:07:01,606 - INFO - Text 1: import | Confidence: 1.00%
+2024-09-30 09:07:01,606 - INFO - Text 2: java.lang | Confidence: 0.98%
+2024-09-30 09:07:01,606 - INFO - Text 3: import java.util | Confidence: 0.98%
+2024-09-30 09:07:01,606 - INFO - Text 4: public class Main | Confidence: 0.99%
+2024-09-30 09:07:01,606 - INFO - Text 5: { | Confidence: 1.00%
+2024-09-30 09:07:01,607 - INFO - Text 6: public static void main(String[] args) | Confidence: 0.85%
+2024-09-30 09:07:01,607 - INFO - Text 7: Scanner | Confidence: 1.00%
+2024-09-30 09:07:01,607 - INFO - Text 8: new | Confidence: 0.92%
+2024-09-30 09:07:01,607 - INFO - Text 9: Scanner( System.in); | Confidence: 0.75%
+2024-09-30 09:07:01,607 - INFO - Text 10: System.out.print("Enter | Confidence: 0.88%
+2024-09-30 09:07:01,607 - INFO - Text 11: a number | Confidence: 0.99%
+2024-09-30 09:07:01,607 - INFO - Text 12: '); | Confidence: 0.96%
+2024-09-30 09:07:01,608 - INFO - Text 13: int | Confidence: 1.00%
+2024-09-30 09:07:01,608 - INFO - Text 14: num | Confidence: 1.00%
+2024-09-30 09:07:01,608 - INFO - Text 15: nextInt(); | Confidence: 1.00%
+2024-09-30 09:07:01,608 - INFO - Text 16: int | Confidence: 1.00%
+2024-09-30 09:07:01,608 - INFO - Text 17: originalNum, | Confidence: 0.99%
+2024-09-30 09:07:01,608 - INFO - Text 18: rem, | Confidence: 0.68%
+2024-09-30 09:07:01,608 - INFO - Text 19: res | Confidence: 1.00%
+2024-09-30 09:07:01,608 - INFO - Text 20: 0, | Confidence: 1.00%
+2024-09-30 09:07:01,608 - INFO - Text 21: 0; | Confidence: 1.00%
+2024-09-30 09:07:01,608 - INFO - Text 22: originalNum | Confidence: 1.00%
+2024-09-30 09:07:01,608 - INFO - Text 23: num; | Confidence: 1.00%
+2024-09-30 09:07:01,608 - INFO - Text 24: for (;originalNum | Confidence: 0.95%
+2024-09-30 09:07:01,608 - INFO - Text 25: I= 0; originalNum | Confidence: 0.75%
+2024-09-30 09:07:01,608 - INFO - Text 26: [= 10, | Confidence: 0.57%
+2024-09-30 09:07:01,608 - INFO - Text 27: ++n); { | Confidence: 0.91%
+2024-09-30 09:07:01,608 - INFO - Text 28: originalNum | Confidence: 1.00%
+2024-09-30 09:07:01,608 - INFO - Text 29: num; | Confidence: 1.00%
+2024-09-30 09:07:01,608 - INFO - Text 30: for (;originalNum | Confidence: 0.94%
+2024-09-30 09:07:01,608 - INFO - Text 31: I= 0; originalNum /= 10) | Confidence: 0.78%
+2024-09-30 09:07:01,609 - INFO - Text 32: rem | Confidence: 1.00%
+2024-09-30 09:07:01,609 - INFO - Text 33: originalNum | Confidence: 1.00%
+2024-09-30 09:07:01,609 - INFO - Text 34: % 10; | Confidence: 0.92%
+2024-09-30 09:07:01,609 - INFO - Text 35: res | Confidence: 1.00%
+2024-09-30 09:07:01,609 - INFO - Text 36: Math.pow(rem, | Confidence: 0.87%
+2024-09-30 09:07:01,609 - INFO - Text 37: n); | Confidence: 1.00%
+2024-09-30 09:07:01,609 - INFO - Text 38: if(res | Confidence: 1.00%
+2024-09-30 09:07:01,609 - INFO - Text 39: Z= | Confidence: 0.20%
+2024-09-30 09:07:01,609 - INFO - Text 40: num) | Confidence: 1.00%
+2024-09-30 09:07:01,609 - INFO - Text 41: System.out.println(num | Confidence: 0.85%
+2024-09-30 09:07:01,609 - INFO - Text 42: is | Confidence: 1.00%
+2024-09-30 09:07:01,609 - INFO - Text 43: an | Confidence: 1.00%
+2024-09-30 09:07:01,609 - INFO - Text 44: Armstrong number."); | Confidence: 0.98%
+2024-09-30 09:07:01,609 - INFO - Text 45: else | Confidence: 1.00%
+2024-09-30 09:07:01,609 - INFO - Text 46: System.out.println(num | Confidence: 0.86%
+2024-09-30 09:07:01,609 - INFO - Text 47: is not | Confidence: 0.99%
+2024-09-30 09:07:01,609 - INFO - Text 48: an | Confidence: 1.00%
+2024-09-30 09:07:01,609 - INFO - Text 49: Armstrong number."); | Confidence: 0.87%
+2024-09-30 09:07:01,609 - INFO - Text 50: +2 | Confidence: 0.22%
+2024-09-30 09:07:01,611 - INFO - Average OCR Confidence: 0.91%
+2024-09-30 09:07:01,611 - INFO - Download button enabled for extracted text.
+2024-09-30 09:45:53,285 - INFO - No image uploaded.
