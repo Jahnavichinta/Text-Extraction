@@ -1,6 +1,6 @@
-#📸 Multilingual OCR Streamlit Application
+# 📸 Multilingual OCR Streamlit Application
 
-##📖 Table of Contents
+## 📖 Table of Contents
 📸 Multilingual OCR Streamlit Application
 📚 Description
 ✨ Features
@@ -13,15 +13,15 @@ Using the Application
 🌐 Deployment
 🔍 Features Overview
 
-##Prerequisites
+## Prerequisites
 Clone the Repository
 Set Up a Virtual Environment
 
-#📚 Description
+# 📚 Description
 The Multilingual OCR Streamlit Application is a user-friendly web application that leverages EasyOCR and Streamlit to extract text from images containing English, Hindi, or both languages. It allows users to upload an image, extract the embedded text, search for specific keywords within the extracted content, and highlights the matching sections in green for easy identification.
 
 
-#✨ Features
+# ✨ Features
 Image Upload: Supports JPG, JPEG, PNG, and BMP formats.
 Language Selection: Choose to extract English only, Hindi only, or both languages simultaneously.
 Grayscale Conversion: Automatically converts uploaded images to grayscale to enhance OCR accuracy.
@@ -32,7 +32,7 @@ Download Option: Download the extracted text as a .txt file.
 Responsive UI: Clean and intuitive interface built with Streamlit.
 
 
-#🛠️ Technologies Used
+# 🛠️ Technologies Used
 Streamlit: For building the web application interface.
 EasyOCR: For Optical Character Recognition (OCR) to extract text from images.
 Pillow: For image handling and processing.
@@ -42,21 +42,21 @@ Regular Expressions (re): For keyword search and highlighting.
 Git: For version control.
 GitHub: For hosting the repository and deploying the app.
 
-#🚀 Demo
+# 🚀 Demo
 Live Demo: Access the live application https://text-extraction-nkcwyckfbiqj3yzdxkttkj.streamlit.app/.
 
-##📋 Installation
+## 📋 Installation
 Prerequisites
 Python 3.7 or higher installed on your machine.
 Git installed for version control. 
 
-#🖥️ Usage
+# 🖥️ Usage
 Running the App Locally
 After installing the dependencies, you can run the Streamlit app locally.
 streamlit run app.py
 
-#Using the Application
-##Upload an Image:
+# Using the Application
+## Upload an Image:
 
 Click on the "📂 Choose an image..." button.
 Select an image file in JPG, JPEG, PNG, or BMP format containing English, Hindi, or both languages.
@@ -75,7 +75,7 @@ Download Extracted Text:
 
 Click on the "📥 Download Text" button to download the extracted text as a .txt file.
 
-#🌐 Deployment
+# 🌐 Deployment
 Deploying on Streamlit Community Cloud
 Streamlit Community Cloud is a free platform to deploy your Streamlit apps.
 
