@@ -5,7 +5,6 @@ import cv2
 import numpy as np
 import re
 import logging
-
 logging.basicConfig(
     filename='app.log',
     level=logging.INFO,
@@ -45,7 +44,7 @@ st.write("""
     Choose the language(s) you want to extract.
 """)
 
-uploaded_file = st.file_uploader("📂 Choose an image...", type=["jpg", "jpeg", "png", "bmp"])
+uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png", "bmp"])
 
 if uploaded_file is not None:
     try:

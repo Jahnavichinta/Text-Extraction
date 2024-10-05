@@ -871,3 +871,24 @@
 2024-09-30 09:07:01,611 - INFO - Download button enabled for extracted text.
 2024-09-30 09:45:53,285 - INFO - No image uploaded.
 2024-10-05 17:16:53,132 - INFO - No image uploaded.
+2024-10-05 17:35:32,370 - INFO - No image uploaded.
+2024-10-05 17:35:41,065 - INFO - Image uploaded and displayed.
+2024-10-05 17:35:41,065 - INFO - OCR Languages selected: English (en)
+2024-10-05 17:35:41,065 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-10-05 17:35:44,157 - INFO - Image uploaded and displayed.
+2024-10-05 17:35:44,174 - INFO - OCR Languages selected: Hindi (hi)
+2024-10-05 17:35:44,205 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2024-10-05 17:35:50,689 - INFO - EasyOCR Reader initialized with languages: ['en']
+2024-10-05 17:35:51,910 - INFO - EasyOCR Reader initialized with languages: ['hi']
+2024-10-05 17:35:51,948 - INFO - Converted PIL Image to OpenCV format.
+2024-10-05 17:35:51,957 - INFO - Converted image to grayscale.
+2024-10-05 17:36:00,685 - INFO - OCR extraction complete with 7 results.
+2024-10-05 17:36:00,685 - INFO - Text 1: \u090a\u0901 \u0915\u093e\u0924\u094d\u092f\u093e\u092f\u0928\u094d\u092f\u0948 \u0935\u093f\u0926\u094d\u092e\u0939\u0947, | Confidence: 0.37%
+2024-10-05 17:36:00,685 - INFO - Text 2: \u0915\u0928\u094d\u092f\u093e | Confidence: 0.51%
+2024-10-05 17:36:00,685 - INFO - Text 3: \u091a \u0927\u0940\u092e\u0939\u093f, | Confidence: 0.57%
+2024-10-05 17:36:00,697 - INFO - Text 4: \u0924\u0928\u094d\u0928\u093e | Confidence: 0.51%
+2024-10-05 17:36:00,697 - INFO - Text 5: \u092a\u094d\u0930\u091a\u094b\u0926\u092f\u093e\u0924\u094d| | | Confidence: 0.36%
+2024-10-05 17:36:00,697 - INFO - Text 6: \u0915\u0941\u092e\u093e\u0930\u093f | Confidence: 0.68%
+2024-10-05 17:36:00,697 - INFO - Text 7: \u0926\u0941\u0930\u094d\u0917\u093e | Confidence: 0.84%
+2024-10-05 17:36:00,697 - INFO - Average OCR Confidence: 0.55%
+2024-10-05 17:36:00,697 - INFO - Download button enabled for extracted text.
